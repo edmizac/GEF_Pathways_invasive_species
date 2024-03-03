@@ -1,3 +1,7 @@
+# No permission to share data from other projects:
+/Arquivos/**
+
+
 # History files
 .Rhistory
 .Rapp.history

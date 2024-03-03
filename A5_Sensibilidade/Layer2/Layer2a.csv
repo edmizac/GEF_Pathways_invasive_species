@@ -1,0 +1,1129 @@
+"","id","nome","categoria","origem","categoria_IUCN","value2a"
+"1",42,"Reserva Biológica Do Lago Piratuba","Reserva Biológica","Protected Planet","Ia",7
+"2",43,"Reserva Biológica Do Rio Trombetas","Reserva Biológica","Protected Planet","Ia",7
+"3",44,"Reserva Biológica Do Jaru","Reserva Biológica","Protected Planet","Ia",7
+"4",46,"Reserva Biológica Atol Das Rocas","Reserva Biológica","Protected Planet","Ia",7
+"5",47,"Reserva Biológica De Sooretama","Reserva Biológica","Protected Planet","Ia",7
+"6",48,"Reserva Biológica De Una","Reserva Biológica","Protected Planet","Ia",7
+"7",49,"Reserva Biológica De Poço Das Antas","Reserva Biológica","Protected Planet","Ia",7
+"8",51,"Reserva Biológica Do Córrego Do Veado","Reserva Biológica","Protected Planet","Ia",7
+"9",52,"Reserva Biológica De Serra Negra","Reserva Biológica","Protected Planet","Ia",7
+"10",53,"Parque Nacional Do Jaú","Parque","Protected Planet","II",6
+"11",54,"Parque Nacional Do Pico Da Neblina","Parque","Protected Planet","II",6
+"12",55,"Parque Nacional Da Amazônia","Parque","Protected Planet","II",6
+"13",56,"Parque Nacional De Pacaás Novos","Parque","Protected Planet","II",6
+"14",57,"Parque Nacional Do Cabo Orange","Parque","Protected Planet","II",6
+"15",58,"Parque Nacional Do Araguaia","Parque","Protected Planet","II",6
+"16",59,"Parque Nacional Da Chapada Dos Veadeiros","Parque","Protected Planet","II",6
+"17",60,"Parque Nacional Do Iguaçu","Parque","Protected Planet","II",6
+"18",61,"Parque Nacional Dos Lençois Maranhenses","Parque","Protected Planet","II",6
+"19",62,"Parque Nacional Das Emas","Parque","Protected Planet","II",6
+"20",64,"Parque Nacional Da Serra Da Capivara","Parque","Protected Planet","II",6
+"21",65,"Parque Nacional Da Serra Da Canastra","Parque","Protected Planet","II",6
+"22",66,"Parque Nacional De São Joaquim","Parque","Protected Planet","II",6
+"23",67,"Parque Nacional De Brasília","Parque","Protected Planet","II",6
+"24",68,"Parque Nacional Do Monte Pascoal","Parque","Protected Planet","II",6
+"25",69,"Parque Nacional De Caparao","Parque","Protected Planet","II",6
+"26",70,"Parque Nacional Do Itatiaia","Parque","Protected Planet","II",6
+"27",71,"Parque Nacional De Aparados Da Serra","Parque","Protected Planet","II",6
+"28",72,"Parque Nacional Da Serra Dos Orgãos","Parque","Protected Planet","II",6
+"29",73,"Parque Nacional De Sete Cidades","Parque","Protected Planet","II",6
+"30",74,"Parque Nacional Da Tijuca","Parque","Protected Planet","II",6
+"31",75,"Parque Nacional De Ubajara","Parque","Protected Planet","II",6
+"32",1974,"Parque Nacional Da Serra Da Bocaina","Parque","Protected Planet","II",6
+"33",2186,"Reserva Biológica Augusto Ruschi","Reserva Biológica","Protected Planet","Ia",7
+"34",2215,"Parque Nacional De Anavilhanas","Parque","Protected Planet","II",6
+"35",2216,"Estação Ecológica De Aracuri-Esmeralda","Estação Ecológica","Protected Planet","Ia",7
+"36",2218,"Estação Ecológica De Maracá","Estação Ecológica","Protected Planet","Ia",7
+"37",2219,"Estação Ecológica De Maracá Jipioca","Estação Ecológica","Protected Planet","Ia",7
+"38",2220,"Estação Ecológica De Taiamã","Estação Ecológica","Protected Planet","Ia",7
+"39",2221,"Estação Ecológica De Uruçuí-Una","Estação Ecológica","Protected Planet","Ia",7
+"40",2222,"Estação Ecológica Rio Acre","Estação Ecológica","Protected Planet","Ia",7
+"41",2581,"Parque Nacional Do Pantanal Matogrossense","Parque","Protected Planet","II",6
+"42",3219,"Parque Estadual Do Rio Doce","Parque","Protected Planet","II",6
+"43",4891,"Estação Ecológica Do Jari","Estação Ecológica","Protected Planet","Ia",7
+"44",4892,"Estação Ecológica De Paulo De Faria","Estação Ecológica","Protected Planet","Ia",7
+"45",4893,"Parque Estadual Turístico Do Alto Do Ribeira","Parque","Protected Planet","II",6
+"46",4894,"Parque Estadual Da Ara","Parque","Protected Planet","II",6
+"47",4895,"Estação Ecológica Dos Caetetus","Estação Ecológica","Protected Planet","Ia",7
+"48",4896,"Parque Estadual De Campos Do Jordão","Parque","Protected Planet","II",6
+"49",4897,"Parque Estadual Carlos Botelho","Parque","Protected Planet","II",6
+"50",4899,"Parque Estadual Da Ilha Anchieta","Parque","Protected Planet","II",6
+"51",4900,"Parque Estadual  De Ilhabela","Parque","Protected Planet","II",6
+"52",4903,"Parque Estadual Do Jaraguá","Parque","Protected Planet","II",6
+"53",4904,"Parque Estadual Da Serra Do Mar","Parque","Protected Planet","II",6
+"54",4908,"Parque Estadual De Vassununga","Parque","Protected Planet","II",6
+"55",4912,"Parque Estadual Da Cantareira","Parque","Protected Planet","II",6
+"56",4915,"Estação Ecológica De Itapeti","Estação Ecológica","Protected Planet","Ia",7
+"57",5123,"Estação Ecológica Do Seridó","Estação Ecológica","Protected Planet","Ia",7
+"58",5125,"Parque Estadual Serra Das Araras","Parque","Protected Planet","II",6
+"59",5126,"Reserva Biológica Do Guaporé","Reserva Biológica","Protected Planet","Ia",7
+"60",5127,"Reserva Biológica Do Abufari","Reserva Biológica","Protected Planet","Ia",7
+"61",6074,"Reserva Biológica Do Tapirapé","Reserva Biológica","Protected Planet","Ia",7
+"62",6957,"Reserva Biológica De Saltinho","Reserva Biológica","Protected Planet","Ia",7
+"63",7906,"Área De Proteção Ambiental De Guaraqueçaba","Área de Proteção Ambiental","Protected Planet","V",3
+"64",7908,"Estação Ecológica Do Taim","Estação Ecológica","Protected Planet","Ia",7
+"65",9822,"Reserva Biológica De Comboios","Reserva Biológica","Protected Planet","Ia",7
+"66",10086,"Área De Relevante Interesse Ecológica Capetinga/Taquara","Área de Relevante Interesse Ecológico","Protected Planet","IV",4
+"67",10795,"Reserva Biológica Do Gurupi","Reserva Biológica","Protected Planet","Ia",7
+"68",10801,"Parque do Tumucumaque","Terra Indígena","Protected Planet","VI",2
+"69",10802,"Floresta Nacional De Tapajós","Floresta","Protected Planet","IV",4
+"70",10803,"Floresta Nacional De Caxiuanã","Floresta","Protected Planet","IV",4
+"71",10808,"Floresta Nacional De Três Barras","Floresta","Protected Planet","IV",4
+"72",10809,"Floresta Nacional De Caçador","Floresta","Protected Planet","IV",4
+"73",10810,"Floresta Nacional De São Francisco De Paula","Floresta","Protected Planet","IV",4
+"74",10811,"Floresta Nacional De Canela","Floresta","Protected Planet","IV",4
+"75",10814,"Floresta Nacional De Passo Fundo","Floresta","Protected Planet","IV",4
+"76",10815,"Floresta Nacional Do Jamari","Floresta","Protected Planet","IV",4
+"77",10821,"Área De Relevante Interesse Ecológica Manguezais Da Foz Do Rio Mamanguape","Área de Relevante Interesse Ecológico","Protected Planet","IV",4
+"78",10822,"Estação Ecológica De Carijós","Estação Ecológica","Protected Planet","Ia",7
+"79",10823,"Estação Ecológica De Pirapitinga","Estação Ecológica","Protected Planet","Ia",7
+"80",10826,"Estação Ecológica De Niquiá","Estação Ecológica","Protected Planet","Ia",7
+"81",10830,"Estação Ecológica Juami-Japurá","Estação Ecológica","Protected Planet","Ia",7
+"82",10842,"Estação Ecológica Raso Da Catarina","Estação Ecológica","Protected Planet","Ia",7
+"83",10843,"Refugio De Vida Silvestre Ilha Dos Lobos","Refugio de Vida Silvestre","Protected Planet","III",5
+"84",10845,"Estação Ecológica De Jutaí-Solimões","Estação Ecológica","Protected Planet","Ia",7
+"85",10846,"Estação Ecológica De Aiuaba","Estação Ecológica","Protected Planet","Ia",7
+"86",15944,"Área De Proteção Ambiental Estadual Mestre Álvaro","Área de Proteção Ambiental","Protected Planet","V",3
+"87",15945,"Parque Estadual Do Forno Grande","Parque","Protected Planet","II",6
+"88",15961,"Parque Estadual Do Itacolomi","Parque","Protected Planet","II",6
+"89",15980,"Parati-Mirim","Terra Indígena","Protected Planet","VI",2
+"90",15981,"Reserva Biológica De Araras","Reserva Biológica","Protected Planet","Ia",7
+"91",15987,"Parque Estadual Do Desengano","Parque","Protected Planet","II",6
+"92",16066,"Parque Estadual De Ibicatu","Parque","Protected Planet","II",6
+"93",16068,"Parque Estadual Do Rio Da Onça","Parque","Protected Planet","II",6
+"94",16069,"Parque Estadual De Campinhos","Parque","Protected Planet","II",6
+"95",16074,"Parque Estadual Do Caxambu","Parque","Protected Planet","II",6
+"96",16078,"Parque Estadual Da Serra Furada","Parque","Protected Planet","II",6
+"97",16081,"Parque Estadual Da Serra Do Tabuleiro","Parque","Protected Planet","II",6
+"98",16083,"Reserva Biológica Do Ibirapuitã","Reserva Biológica","Protected Planet","Ia",7
+"99",16086,"Parque Estadual Do Turvo","Parque","Protected Planet","II",6
+"100",16091,"Reserva Biológica Do Mato Grande","Reserva Biológica","Protected Planet","Ia",7
+"101",16092,"Parque Estadual Do Podocarpus","Parque","Protected Planet","II",6
+"102",16105,"Área De Proteção Ambiental De Petrópolis","Área de Proteção Ambiental","Protected Planet","V",3
+"103",18727,"Área De Proteção Ambiental De Piaçabuçu","Área de Proteção Ambiental","Protected Planet","V",3
+"104",18733,"Reserva Particular Do Patrimônio Natural Kahena","Reserva Particular do Patrimônio Natural","Protected Planet","IV",4
+"105",18738,"Estação Ecológica De Guaraqueçaba","Estação Ecológica","Protected Planet","Ia",7
+"106",18739,"Estação Ecológica Tupinambás","Estação Ecológica","Protected Planet","Ia",7
+"107",18740,"Estação Ecológica Dos Tupiniquins","Estação Ecológica","Protected Planet","Ia",7
+"108",18742,"Reserva Biológica Do Córrego Grande","Reserva Biológica","Protected Planet","Ia",7
+"109",18744,"Reserva Biológica Do Tinguá","Reserva Biológica","Protected Planet","Ia",7
+"110",18745,"Reserva Biológica De Santa Isabel","Reserva Biológica","Protected Planet","Ia",7
+"111",19272,"Parque Nacional Grande Sertão Veredas","Parque","Protected Planet","II",6
+"112",19273,"Parque Nacional Da Chapada Dos Guimarães","Parque","Protected Planet","II",6
+"113",19274,"Parque Nacional Do Superagui","Parque","Protected Planet","II",6
+"114",19275,"Parque Nacional Da Serra Do Divisor","Parque","Protected Planet","II",6
+"115",19421,"Reserva Biológica Estadual Do Aguaí","Reserva Biológica","Protected Planet","Ia",7
+"116",19422,"Estação Ecológica De Águas Emendadas","Estação Ecológica","Protected Planet","Ia",7
+"117",19428,"Reserva Biológica Da Serra Geral","Reserva Biológica","Protected Planet","Ia",7
+"118",19431,"Estação Ecológica De Bauru","Estação Ecológica","Protected Planet","Ia",7
+"119",19434,"Estação Ecológica Chaúas","Estação Ecológica","Protected Planet","Ia",7
+"120",19435,"Estação Ecológica Ibicatu","Estação Ecológica","Protected Planet","Ia",7
+"121",19437,"Estação Ecológica De Itirapina","Estação Ecológica","Protected Planet","Ia",7
+"122",19438,"Estação Ecológica Jataí","Estação Ecológica","Protected Planet","Ia",7
+"123",19441,"Estação Ecológica De Ribeirão Preto","Estação Ecológica","Protected Planet","Ia",7
+"124",19442,"Estação Ecológica De Santa Bárbara","Estação Ecológica","Protected Planet","Ia",7
+"125",19447,"Parque Nacional Da Chapada Diamantina","Parque","Protected Planet","II",6
+"126",19448,"Parque Nacional Da Lagoa Do Peixe","Parque","Protected Planet","II",6
+"127",19450,"Parque Estadual Do Bacanga","Parque","Protected Planet","II",6
+"128",19453,"Parque Estadual Do Morro Do Chapéu","Parque","Protected Planet","II",6
+"129",19454,"Reserva Biologica De Pedra Talhada","Reserva Biológica","Protected Planet","Ia",7
+"130",19456,"Parque Estadual Da Serra De Caldas Novas","Parque","Protected Planet","II",6
+"131",19458,"Área De Proteção Ambiental De Cairuçu","Área de Proteção Ambiental","Protected Planet","V",3
+"132",19471,"Área De Proteção Ambiental Grutas Dos Brejões / Veredas Do Romão Gramacho","Área de Proteção Ambiental","Protected Planet","V",3
+"133",19479,"Área De Proteção Ambiental De Mangaratiba","Área de Proteção Ambiental","Protected Planet","V",3
+"134",19480,"Área De Proteção Ambiental De Maricá","Área de Proteção Ambiental","Protected Planet","V",3
+"135",19481,"Área De Proteção Ambiental De Massambaba","Área de Proteção Ambiental","Protected Planet","V",3
+"136",19484,"Área De Proteção Ambiental De Cananéia-Iguapé-Peruíbe","Área de Proteção Ambiental","Protected Planet","V",3
+"137",19505,"Koatinemo","Terra Indígena","Protected Planet","VI",2
+"138",19506,"Kararaô","Terra Indígena","Protected Planet","VI",2
+"139",19554,"Estação Ecológica Do Tripuí","Estação Ecológica","Protected Planet","Ia",7
+"140",19737,"Parque Nacional Da Serra Do Cipó","Parque","Protected Planet","II",6
+"141",19745,"Floresta Nacional De Amapá","Floresta","Protected Planet","IV",4
+"142",19746,"Floresta Nacional De Purus","Floresta","Protected Planet","IV",4
+"143",19747,"Floresta Nacional De Tefé","Floresta","Protected Planet","IV",4
+"144",19750,"Reserva Biológica Do Guará","Reserva Biológica","Protected Planet","Ia",7
+"145",19751,"Área De Proteção Ambiental Da Bacia Do Rio Descoberto","Área de Proteção Ambiental","Protected Planet","V",3
+"146",19752,"Área De Proteção Ambiental Da Bacia Do Rio São Bartolomeu","Área de Proteção Ambiental","Protected Planet","V",3
+"147",19753,"Apa De Cafuringa","Área de Proteção Ambiental","Protected Planet","V",3
+"148",19755,"Área De Proteção Ambiental Do Igarapé Gelado","Área de Proteção Ambiental","Protected Planet","V",3
+"149",19758,"Floresta Nacional De Mário Xavier","Floresta","Protected Planet","IV",4
+"150",19759,"Floresta Nacional De Bom Futuro","Floresta","Protected Planet","IV",4
+"151",19762,"Parque Nacional Do Monte Roraima","Parque","Protected Planet","II",6
+"152",19763,"Floresta Nacional De Ibirama","Floresta","Protected Planet","IV",4
+"153",19769,"Reserva De Desenvolvimento Sustentável Mamirauá","Reserva de Desenvolvimento Sustentável","Protected Planet","VI",2
+"154",19770,"Parque Estadual Da Fonte Grande","Parque","Protected Planet","II",6
+"155",19777,"Estação Ecológica De Itapeva","Estação Ecológica","Protected Planet","Ia",7
+"156",31750,"Reserva Biológica Guaribas","Reserva Biológica","Protected Planet","Ia",7
+"157",31751,"Reserva Biológica Marinha Do Arvoredo","Reserva Biológica","Protected Planet","Ia",7
+"158",31752,"Reserva Biológica Do Uatumã","Reserva Biológica","Protected Planet","Ia",7
+"159",31755,"Área De Proteção Ambiental Cavernas Do Peruaçu","Área de Proteção Ambiental","Protected Planet","V",3
+"160",31756,"Área De Proteção Ambiental Carste Da Lagoa Santa","Área de Proteção Ambiental","Protected Planet","V",3
+"161",31758,"Área De Proteção Ambiental Serra Da Tabatinga","Área de Proteção Ambiental","Protected Planet","V",3
+"162",31759,"Floresta Nacional Do Amazonas","Floresta","Protected Planet","IV",4
+"163",31763,"Floresta Nacional De Mapiá-Inauiní","Floresta","Protected Planet","IV",4
+"164",31768,"Floresta Nacional De Roraima","Floresta","Protected Planet","IV",4
+"165",31769,"Floresta Nacional De Saracá-Taquera","Floresta","Protected Planet","IV",4
+"166",31770,"Floresta Nacional De Tapirapé-Aquiri","Floresta","Protected Planet","IV",4
+"167",31774,"Reserva Extrativista Alto Juruá","Reserva Extrativista","Protected Planet","VI",2
+"168",31775,"Reserva Extrativista Chico Mendes","Reserva Extrativista","Protected Planet","VI",2
+"169",31776,"Reserva Extrativista Rio Cajari","Reserva Extrativista","Protected Planet","VI",2
+"170",31777,"Reserva Extrativista Rio Ouro Preto","Reserva Extrativista","Protected Planet","VI",2
+"171",33040,"Parque Estadual De Águas Quentes","Parque","Protected Planet","II",6
+"172",33041,"Reserva Biológica Culuene","Reserva Biológica","Protected Planet","Ia",7
+"173",33521,"Parque Estadual Serra Do Aracá","Parque","Protected Planet","II",6
+"174",33522,"Área De Proteção Ambiental De Presidente Figueiredo - Caverna Do Moroaga","Área de Proteção Ambiental","Protected Planet","V",3
+"175",33524,"Área De Proteção Ambiental Nhamundá","Área de Proteção Ambiental","Protected Planet","V",3
+"176",33530,"Área De Proteção Ambiental Lagoas E Dunas Do Abaeté","Área de Proteção Ambiental","Protected Planet","V",3
+"177",33531,"Estação Ecológica Estadual Wenceslau Guimarães","Estação Ecológica","Protected Planet","Ia",7
+"178",33544,"Área De Proteção Ambiental Da Serra De Baturité","Área de Proteção Ambiental","Protected Planet","V",3
+"179",33555,"Arie Paranoá Sul","Área de Relevante Interesse Ecológico","Protected Planet","IV",4
+"180",33559,"Parque Estadual Serra Do Brigadeiro","Parque","Protected Planet","II",6
+"181",33562,"Área De Proteção Ambiental Cachoeira Das Andorinhas","Área de Proteção Ambiental","Protected Planet","V",3
+"182",33569,"Área De Proteção Ambiental De Algodoal-Maiandeua","Área de Proteção Ambiental","Protected Planet","V",3
+"183",33572,"Parque Estadual De Ibiporã","Parque","Protected Planet","II",6
+"184",33577,"Parque Estadual De Palmas","Parque","Protected Planet","II",6
+"185",33585,"Parque Estadual Do Penhasco Verde","Parque","Protected Planet","II",6
+"186",33601,"Área De Proteção Ambiental Do Banhado Grande","Área de Proteção Ambiental","Protected Planet","V",3
+"187",33608,"Estação Ecológica Samuel","Estação Ecológica","Protected Planet","Ia",7
+"188",33609,"Estação Ecológica Serra Dos Três Irmãos","Estação Ecológica","Protected Planet","Ia",7
+"189",33610,"Reserva Biológica Traçadal","Reserva Biológica","Protected Planet","Ia",7
+"190",33611,"Reserva Biológica Rio Ouro Preto","Reserva Biológica","Protected Planet","Ia",7
+"191",33612,"Parque Estadual De Guajará-Mirim","Parque","Protected Planet","II",6
+"192",33613,"Parque Estadual De Corumbiara","Parque","Protected Planet","II",6
+"193",33617,"Parque Estadual Serra Dos Reis","Parque","Protected Planet","II",6
+"194",33620,"Parque Estadual Intervales","Parque","Protected Planet","II",6
+"195",33623,"Área De Proteção Ambiental Do Rio Curiaú","Área de Proteção Ambiental","Protected Planet","V",3
+"196",33712,"Estação Ecológica Do Rio Roosevelt","Estação Ecológica","Protected Planet","Ia",7
+"197",33714,"Reserva Extrativista Rio Preto-Jacundá","Reserva Extrativista","Protected Planet","VI",2
+"198",33716,"Reserva Extrativista Rio Pacaás Novos","Reserva Extrativista","Protected Planet","VI",2
+"199",33723,"Nukini","Terra Indígena","Protected Planet","VI",2
+"200",33724,"Poyanawa","Terra Indígena","Protected Planet","VI",2
+"201",33725,"Jaminawa do Igarapé Preto","Terra Indígena","Protected Planet","VI",2
+"202",33727,"Jaminawa Arara do Rio Bagé","Terra Indígena","Protected Planet","VI",2
+"203",33728,"Kaxinawá da Praia do Carapanã","Terra Indígena","Protected Planet","VI",2
+"204",33729,"Kampa do Rio Amonea","Terra Indígena","Protected Planet","VI",2
+"205",33730,"Kaxinawá Ashaninka do Rio Breu","Terra Indígena","Protected Planet","VI",2
+"206",33731,"Kaxinawá do Rio Jordão","Terra Indígena","Protected Planet","VI",2
+"207",33732,"Alto Tarauacá","Terra Indígena","Protected Planet","VI",2
+"208",33733,"Kampa e Isolados do Rio Envira","Terra Indígena","Protected Planet","VI",2
+"209",33734,"Kaxinawá do Rio Humaitá","Terra Indígena","Protected Planet","VI",2
+"210",33736,"Arara do Igarapé Humaitá","Terra Indígena","Protected Planet","VI",2
+"211",33738,"Rio Gregório","Terra Indígena","Protected Planet","VI",2
+"212",33739,"Kaxinawá Colônia Vinte e Sete","Terra Indígena","Protected Planet","VI",2
+"213",33741,"Igarapé do Caucho","Terra Indígena","Protected Planet","VI",2
+"214",33743,"Kulina Igarapé do Pau","Terra Indígena","Protected Planet","VI",2
+"215",33744,"Kaxinawá Nova Olinda","Terra Indígena","Protected Planet","VI",2
+"216",33745,"Mamoadate","Terra Indígena","Protected Planet","VI",2
+"217",33746,"Cabeceira do Rio Acre","Terra Indígena","Protected Planet","VI",2
+"218",33747,"Alto Rio Purus","Terra Indígena","Protected Planet","VI",2
+"219",33751,"Floresta Nacional De Macauã","Floresta","Protected Planet","IV",4
+"220",33809,"Galibi","Terra Indígena","Protected Planet","VI",2
+"221",33810,"Jumina","Terra Indígena","Protected Planet","VI",2
+"222",33811,"Uaça","Terra Indígena","Protected Planet","VI",2
+"223",33812,"Waiãpi","Terra Indígena","Protected Planet","VI",2
+"224",33821,"Reserva Biológica Morro Dos Seis Lagos","Reserva Biológica","Protected Planet","Ia",7
+"225",33831,"Área De Relevante Interesse Ecológica Javari Buriti","Área de Relevante Interesse Ecológico","Protected Planet","IV",4
+"226",33843,"Boca do Acre","Terra Indígena","Protected Planet","VI",2
+"227",33844,"Camicua","Terra Indígena","Protected Planet","VI",2
+"228",33846,"Coata-Laranjal","Terra Indígena","Protected Planet","VI",2
+"229",33848,"Deni","Terra Indígena","Protected Planet","VI",2
+"230",33849,"Estrela da Paz","Terra Indígena","Protected Planet","VI",2
+"231",33853,"Gavião","Terra Indígena","Protected Planet","VI",2
+"232",33854,"Guapenu","Terra Indígena","Protected Planet","VI",2
+"233",33860,"Igarapé Grande","Terra Indígena","Protected Planet","VI",2
+"234",33865,"Ipixuna","Terra Indígena","Protected Planet","VI",2
+"235",33866,"Itaitinga","Terra Indígena","Protected Planet","VI",2
+"236",33867,"Jaquiri","Terra Indígena","Protected Planet","VI",2
+"237",33868,"Jatuarana","Terra Indígena","Protected Planet","VI",2
+"238",33871,"Katukina/Kaxinawá","Terra Indígena","Protected Planet","VI",2
+"239",33872,"Kaxarari","Terra Indígena","Protected Planet","VI",2
+"240",33874,"Kulina do Medio Jurua","Terra Indígena","Protected Planet","VI",2
+"241",33875,"Lago Aiapua","Terra Indígena","Protected Planet","VI",2
+"242",33876,"Lago do Beruri","Terra Indígena","Protected Planet","VI",2
+"243",33877,"Lameirão","Terra Indígena","Protected Planet","VI",2
+"244",33878,"Lauro Sodré","Terra Indígena","Protected Planet","VI",2
+"245",33879,"Macarrão","Terra Indígena","Protected Planet","VI",2
+"246",33882,"Seruini/Mariene","Terra Indígena","Protected Planet","VI",2
+"247",33885,"Meria","Terra Indígena","Protected Planet","VI",2
+"248",33886,"Miratu","Terra Indígena","Protected Planet","VI",2
+"249",33887,"Murutinga","Terra Indígena","Protected Planet","VI",2
+"250",33888,"Natal/Felicidade","Terra Indígena","Protected Planet","VI",2
+"251",33889,"Nhamundá/Mapuera","Terra Indígena","Protected Planet","VI",2
+"252",33890,"Nove de Janeiro","Terra Indígena","Protected Planet","VI",2
+"253",33891,"Padre","Terra Indígena","Protected Planet","VI",2
+"254",33892,"Paracuhuba","Terra Indígena","Protected Planet","VI",2
+"255",33894,"Paumari do Lago Marahã","Terra Indígena","Protected Planet","VI",2
+"256",33895,"Pirahã","Terra Indígena","Protected Planet","VI",2
+"257",33897,"Rio Biá","Terra Indígena","Protected Planet","VI",2
+"258",33898,"Recreio/São Félix","Terra Indígena","Protected Planet","VI",2
+"259",33899,"São Leopoldo","Terra Indígena","Protected Planet","VI",2
+"260",33901,"Tabocal","Terra Indígena","Protected Planet","VI",2
+"261",33904,"Tenharim Marmelos","Terra Indígena","Protected Planet","VI",2
+"262",33905,"Terra Vermelha","Terra Indígena","Protected Planet","VI",2
+"263",33906,"Betania","Terra Indígena","Protected Planet","VI",2
+"264",33907,"Tikúna de Feijoal","Terra Indígena","Protected Planet","VI",2
+"265",33908,"Évare II","Terra Indígena","Protected Planet","VI",2
+"266",33909,"Évare I","Terra Indígena","Protected Planet","VI",2
+"267",33910,"Tukuna Porto Espiritual","Terra Indígena","Protected Planet","VI",2
+"268",33911,"Tikuna de Santo Antonio","Terra Indígena","Protected Planet","VI",2
+"269",33912,"Vui-Uata-In","Terra Indígena","Protected Planet","VI",2
+"270",33916,"Trincheira","Terra Indígena","Protected Planet","VI",2
+"271",33917,"Uati-Paraná","Terra Indígena","Protected Planet","VI",2
+"272",33918,"Tukuna Umariaçu","Terra Indígena","Protected Planet","VI",2
+"273",33919,"Uneiuxi","Terra Indígena","Protected Planet","VI",2
+"274",33920,"Vale do Javari","Terra Indígena","Protected Planet","VI",2
+"275",33922,"Waimiri-Atroari","Terra Indígena","Protected Planet","VI",2
+"276",33925,"Zuruahã","Terra Indígena","Protected Planet","VI",2
+"277",33926,"Alto Turiaçu","Terra Indígena","Protected Planet","VI",2
+"278",33927,"Arariboia","Terra Indígena","Protected Planet","VI",2
+"279",33928,"Awa","Terra Indígena","Protected Planet","VI",2
+"280",33929,"Bacurizinho","Terra Indígena","Protected Planet","VI",2
+"281",33930,"Cana Brava/Guajajara","Terra Indígena","Protected Planet","VI",2
+"282",33931,"Caru","Terra Indígena","Protected Planet","VI",2
+"283",33932,"Geralda Toco Preto","Terra Indígena","Protected Planet","VI",2
+"284",33933,"Governador","Terra Indígena","Protected Planet","VI",2
+"285",33935,"Krikati","Terra Indígena","Protected Planet","VI",2
+"286",33936,"Lagoa Comprida","Terra Indígena","Protected Planet","VI",2
+"287",33937,"Morro Branco","Terra Indígena","Protected Planet","VI",2
+"288",33938,"Porquinhos","Terra Indígena","Protected Planet","VI",2
+"289",33939,"Rio Pindaré","Terra Indígena","Protected Planet","VI",2
+"290",33941,"Urucu/Juruá","Terra Indígena","Protected Planet","VI",2
+"291",33942,"Apiaka/Kayabi","Terra Indígena","Protected Planet","VI",2
+"292",33946,"Areões","Terra Indígena","Protected Planet","VI",2
+"293",33948,"Bakairi","Terra Indígena","Protected Planet","VI",2
+"294",33951,"Capoto/Jarina","Terra Indígena","Protected Planet","VI",2
+"295",33952,"Erikbaktsa","Terra Indígena","Protected Planet","VI",2
+"296",33953,"Escondido","Terra Indígena","Protected Planet","VI",2
+"297",33955,"Estivadinho","Terra Indígena","Protected Planet","VI",2
+"298",33956,"Figueiras","Terra Indígena","Protected Planet","VI",2
+"299",33957,"Irantxe","Terra Indígena","Protected Planet","VI",2
+"300",33958,"Japuira","Terra Indígena","Protected Planet","VI",2
+"301",33961,"Jarudore","Reserva Indígena","Protected Planet","VI",2
+"302",33962,"Marechal Rondon","Terra Indígena","Protected Planet","VI",2
+"303",33963,"Menku","Terra Indígena","Protected Planet","VI",2
+"304",33964,"Merure","Terra Indígena","Protected Planet","VI",2
+"305",33965,"Nambikwara","Terra Indígena","Protected Planet","VI",2
+"306",33966,"Parabubure","Terra Indígena","Protected Planet","VI",2
+"307",33967,"Paresi","Terra Indígena","Protected Planet","VI",2
+"308",33968,"Perigara","Terra Indígena","Protected Planet","VI",2
+"309",33969,"Pimentel Barbosa","Terra Indígena","Protected Planet","VI",2
+"310",33970,"Pirineus de Souza","Terra Indígena","Protected Planet","VI",2
+"311",33972,"Rio Formoso","Terra Indígena","Protected Planet","VI",2
+"312",33976,"Sangradouro/Volta Grande","Terra Indígena","Protected Planet","VI",2
+"313",33977,"Santana","Terra Indígena","Protected Planet","VI",2
+"314",33978,"São Domingos - MT","Terra Indígena","Protected Planet","VI",2
+"315",33980,"Sararé","Terra Indígena","Protected Planet","VI",2
+"316",33981,"Serra Morena","Terra Indígena","Protected Planet","VI",2
+"317",33983,"Tadarimana","Terra Indígena","Protected Planet","VI",2
+"318",33984,"Tapirapé/Karajá","Terra Indígena","Protected Planet","VI",2
+"319",33985,"Tereza Cristina","Reserva Indígena","Protected Planet","VI",2
+"320",33986,"Tirecatinga","Terra Indígena","Protected Planet","VI",2
+"321",33987,"Umutina","Terra Indígena","Protected Planet","VI",2
+"322",33988,"Utiariti","Terra Indígena","Protected Planet","VI",2
+"323",33989,"Vale do Guaporé","Terra Indígena","Protected Planet","VI",2
+"324",33990,"Zoró","Terra Indígena","Protected Planet","VI",2
+"325",33991,"Alto Rio Guamá","Terra Indígena","Protected Planet","VI",2
+"326",33992,"Amanayé","Terra Indígena","Protected Planet","VI",2
+"327",33993,"Anambé","Terra Indígena","Protected Planet","VI",2
+"328",33994,"Andirá-Marau","Terra Indígena","Protected Planet","VI",2
+"329",33995,"Apyterewa","Terra Indígena","Protected Planet","VI",2
+"330",33998,"Araweté Igarapé Ipixuna","Terra Indígena","Protected Planet","VI",2
+"331",34000,"Baú","Terra Indígena","Protected Planet","VI",2
+"332",34001,"Xikrin do Rio Catete","Terra Indígena","Protected Planet","VI",2
+"333",34004,"Kayapó","Terra Indígena","Protected Planet","VI",2
+"334",34007,"Cayabi","Terra Indígena","Protected Planet","VI",2
+"335",34009,"Mãe Maria","Terra Indígena","Protected Planet","VI",2
+"336",34010,"Munduruku","Terra Indígena","Protected Planet","VI",2
+"337",34012,"Paquiçamba","Terra Indígena","Protected Planet","VI",2
+"338",34013,"Parakanã","Terra Indígena","Protected Planet","VI",2
+"339",34015,"Sai-Cinza","Terra Indígena","Protected Planet","VI",2
+"340",34016,"Sororó","Terra Indígena","Protected Planet","VI",2
+"341",34017,"Tembé","Terra Indígena","Protected Planet","VI",2
+"342",34018,"Trocará","Terra Indígena","Protected Planet","VI",2
+"343",34019,"Apinayé","Terra Indígena","Protected Planet","VI",2
+"344",34020,"Funil","Terra Indígena","Protected Planet","VI",2
+"345",34021,"Kraolandia","Terra Indígena","Protected Planet","VI",2
+"346",34022,"Xambioá","Terra Indígena","Protected Planet","VI",2
+"347",34023,"Xerente","Terra Indígena","Protected Planet","VI",2
+"348",34026,"Reserva Extrativista Rio Cautário","Reserva Extrativista","Protected Planet","VI",2
+"349",34030,"Igarapé Lage","Terra Indígena","Protected Planet","VI",2
+"350",34031,"Igarapé Lourdes","Terra Indígena","Protected Planet","VI",2
+"351",34032,"Igarapé Ribeirão","Terra Indígena","Protected Planet","VI",2
+"352",34033,"Karipuna","Terra Indígena","Protected Planet","VI",2
+"353",34034,"Karitiana","Terra Indígena","Protected Planet","VI",2
+"354",34036,"Rio Mequens","Terra Indígena","Protected Planet","VI",2
+"355",34037,"Pacaas Novas","Terra Indígena","Protected Planet","VI",2
+"356",34038,"Rio Branco","Terra Indígena","Protected Planet","VI",2
+"357",34039,"Rio Guaporé","Terra Indígena","Protected Planet","VI",2
+"358",34040,"Rio Negro Ocaia","Terra Indígena","Protected Planet","VI",2
+"359",34041,"Roosevelt","Terra Indígena","Protected Planet","VI",2
+"360",34042,"Sagarana","Terra Indígena","Protected Planet","VI",2
+"361",34043,"Sete de Setembro","Terra Indígena","Protected Planet","VI",2
+"362",34044,"Tubarão Latunde","Terra Indígena","Protected Planet","VI",2
+"363",34045,"Uru-Eu-Wau-Wau","Terra Indígena","Protected Planet","VI",2
+"364",34046,"Ananás","Terra Indígena","Protected Planet","VI",2
+"365",34047,"Aningal","Terra Indígena","Protected Planet","VI",2
+"366",34048,"Anta","Terra Indígena","Protected Planet","VI",2
+"367",34049,"Araça","Terra Indígena","Protected Planet","VI",2
+"368",34051,"Barata Livramento","Terra Indígena","Protected Planet","VI",2
+"369",34052,"Bom Jesus","Terra Indígena","Protected Planet","VI",2
+"370",34053,"Boqueirão","Terra Indígena","Protected Planet","VI",2
+"371",34054,"Cajueiro","Terra Indígena","Protected Planet","VI",2
+"372",34055,"Canauanim","Terra Indígena","Protected Planet","VI",2
+"373",34058,"Jabuti","Terra Indígena","Protected Planet","VI",2
+"374",34059,"Jacamim","Terra Indígena","Protected Planet","VI",2
+"375",34063,"Malacacheta","Terra Indígena","Protected Planet","VI",2
+"376",34064,"Mangueira","Terra Indígena","Protected Planet","VI",2
+"377",34065,"Manoa/Pium","Terra Indígena","Protected Planet","VI",2
+"378",34067,"Muriru","Terra Indígena","Protected Planet","VI",2
+"379",34068,"Ouro","Terra Indígena","Protected Planet","VI",2
+"380",34072,"Pium","Terra Indígena","Protected Planet","VI",2
+"381",34073,"Ponta da Serra","Terra Indígena","Protected Planet","VI",2
+"382",34074,"Raimundão","Terra Indígena","Protected Planet","VI",2
+"383",34075,"Raposa Serra do Sol","Terra Indígena","Protected Planet","VI",2
+"384",34077,"Santa Inez","Terra Indígena","Protected Planet","VI",2
+"385",34078,"São Marcos - MT","Reserva Indígena","Protected Planet","VI",2
+"386",34080,"Serra da Moça","Terra Indígena","Protected Planet","VI",2
+"387",34081,"Sucuba","Terra Indígena","Protected Planet","VI",2
+"388",34082,"Tabalascada","Terra Indígena","Protected Planet","VI",2
+"389",34083,"Truaru","Terra Indígena","Protected Planet","VI",2
+"390",34084,"WaiWai","Terra Indígena","Protected Planet","VI",2
+"391",34665,"Arara","Terra Indígena","Protected Planet","VI",2
+"392",34814,"Área De Proteção Ambiental Lagoas De Guarajuba","Área de Proteção Ambiental","Protected Planet","V",3
+"393",34842,"Trincheira Bacaja","Terra Indígena","Protected Planet","VI",2
+"394",34843,"Cachoeira Seca","Terra Indígena","Protected Planet","VI",2
+"395",34845,"Menkragnotí","Terra Indígena","Protected Planet","VI",2
+"396",34849,"Rio Paru D'Este","Terra Indígena","Protected Planet","VI",2
+"397",34895,"Kanela","Terra Indígena","Protected Planet","VI",2
+"398",39850,"Área De Proteção Ambiental De Macaé De Cima","Área de Proteção Ambiental","Protected Planet","V",3
+"399",39855,"Reserva Biológica Estadual De Guaratiba","Reserva Biológica","Protected Planet","Ia",7
+"400",39856,"Área De Proteção Ambiental Da Serra De Sapiatiba","Área de Proteção Ambiental","Protected Planet","V",3
+"401",40924,"Estação Ecológica Do Guaraguaçu","Estação Ecológica","Protected Planet","Ia",7
+"402",41078,"Estação Ecológica Do Jardim Botânico","Estação Ecológica","Protected Planet","Ia",7
+"403",41080,"Potiguara","Terra Indígena","Protected Planet","VI",2
+"404",41087,"Parque Nacional Mar. De Fernando De Noronha","Parque","Protected Planet","II",6
+"405",41089,"Floresta Estadual De Rendimento Sustentado Do Rio Madeira ""B""","Floresta","Protected Planet","IV",4
+"406",41093,"Parque do Aripuanã","Terra Indígena","Protected Planet","VI",2
+"407",61690,"Parque Estadual Do Cocó","Parque","Protected Planet","II",6
+"408",67692,"Área De Relevante Interesse Ecológica Projeto Dinâmica Biológica De Fragmentos Florestais","Área de Relevante Interesse Ecológico","Protected Planet","IV",4
+"409",67715,"Reserva Extrativista Marinha Pirajubaé","Reserva Extrativista","Protected Planet","VI",2
+"410",71009,"Parque Estadual Marinho Do Parcel De Manuel Luís","Parque","Protected Planet","II",6
+"411",81044,"Estação Ecológica Bananal","Estação Ecológica","Protected Planet","Ia",7
+"412",81048,"Parque Estadual Do Jurupará","Parque","Protected Planet","II",6
+"413",81049,"Estação Ecológica Itaberá","Estação Ecológica","Protected Planet","Ia",7
+"414",81051,"Parque Estadual Do Morro Do Diabo","Parque","Protected Planet","II",6
+"415",81052,"Parque Estadual De Porto Ferreira","Parque","Protected Planet","II",6
+"416",81053,"Estação Ecológica Mata Do Jacaré","Estação Ecológica","Protected Planet","Ia",7
+"417",81054,"Estação Ecológica Valinhos","Estação Ecológica","Protected Planet","Ia",7
+"418",81055,"Estação Ecológica De Xitué","Estação Ecológica","Protected Planet","Ia",7
+"419",81058,"Estação Ecológica Juréia-Itatins","Estação Ecológica","Protected Planet","Ia",7
+"420",81060,"Parque Nacional Marinho Dos Abrolhos","Parque","Protected Planet","II",6
+"421",101761,"Reserva De Desenvolvimento Sustentável Do Rio Iratapuru","Reserva de Desenvolvimento Sustentável","Protected Planet","VI",2
+"422",115417,"Campinas/Katukina","Terra Indígena","Protected Planet","VI",2
+"423",115418,"Tenharim do Igarapé Preto","Terra Indígena","Protected Planet","VI",2
+"424",115433,"Área De Proteção Ambiental Ponta Da Baleia / Abrolhos","Área de Proteção Ambiental","Protected Planet","V",3
+"425",115445,"Águas Belas","Terra Indígena","Protected Planet","VI",2
+"426",115446,"Barra Velha","Terra Indígena","Protected Planet","VI",2
+"427",115447,"Coroa Vermelha","Terra Indígena","Protected Planet","VI",2
+"428",115511,"Acimã","Terra Indígena","Protected Planet","VI",2
+"429",115512,"Alto Sepatini","Terra Indígena","Protected Planet","VI",2
+"430",115513,"Apurinã do Igarapé São João","Terra Indígena","Protected Planet","VI",2
+"431",115514,"Apurinã Igarapé Tauamirim","Terra Indígena","Protected Planet","VI",2
+"432",115515,"Apurinã Km 124 BR-317","Terra Indígena","Protected Planet","VI",2
+"433",115516,"Banawá","Terra Indígena","Protected Planet","VI",2
+"434",115517,"Barreira da Missão","Terra Indígena","Protected Planet","VI",2
+"435",115518,"Boa Vista - AM","Terra Indígena","Protected Planet","VI",2
+"436",115519,"Cacau do Tarauaca","Terra Indígena","Protected Planet","VI",2
+"437",115520,"Caititu","Terra Indígena","Protected Planet","VI",2
+"438",115522,"Capivara","Terra Indígena","Protected Planet","VI",2
+"439",115524,"Catipari/Mamoria","Terra Indígena","Protected Planet","VI",2
+"440",115526,"Cunhã-Sapucaia","Terra Indígena","Protected Planet","VI",2
+"441",115527,"Cuia","Terra Indígena","Protected Planet","VI",2
+"442",115530,"Guajahã","Terra Indígena","Protected Planet","VI",2
+"443",115532,"Igarapé Capana","Terra Indígena","Protected Planet","VI",2
+"444",115533,"Ilha do Camaleão","Terra Indígena","Protected Planet","VI",2
+"445",115535,"Jarawara/Jamamadi/Kanamati","Terra Indígena","Protected Planet","VI",2
+"446",115536,"Juma","Terra Indígena","Protected Planet","VI",2
+"447",115539,"Kanamari do Rio Juruá","Terra Indígena","Protected Planet","VI",2
+"448",115543,"Paumari do Lago Manissuã","Terra Indígena","Protected Planet","VI",2
+"449",115545,"Maraã Urubaxi","Terra Indígena","Protected Planet","VI",2
+"450",115566,"Parana do Boa Boa","Terra Indígena","Protected Planet","VI",2
+"451",115568,"Paumari do Lago Paricá","Terra Indígena","Protected Planet","VI",2
+"452",115569,"Paumari do Rio Ituxi","Terra Indígena","Protected Planet","VI",2
+"453",115570,"Paumari do Cuniua","Terra Indígena","Protected Planet","VI",2
+"454",115571,"Peneri/Tacaquiri","Terra Indígena","Protected Planet","VI",2
+"455",115574,"Rio Manicoré","Terra Indígena","Protected Planet","VI",2
+"456",115577,"São Pedro do Sepatini","Terra Indígena","Protected Planet","VI",2
+"457",115579,"Sepoti","Terra Indígena","Protected Planet","VI",2
+"458",115584,"Tumiã","Terra Indígena","Protected Planet","VI",2
+"459",115666,"Área De Proteção Ambiental Delta Do Parnaiba","Área de Proteção Ambiental","Protected Planet","V",3
+"460",115686,"Área De Proteção Ambiental Das Reentrâncias Maranhenses","Área de Proteção Ambiental","Protected Planet","V",3
+"461",115697,"Enawene-Nawe","Terra Indígena","Protected Planet","VI",2
+"462",115699,"Taihantesu","Terra Indígena","Protected Planet","VI",2
+"463",115700,"Pequizal","Terra Indígena","Protected Planet","VI",2
+"464",115701,"Juininha","Terra Indígena","Protected Planet","VI",2
+"465",115765,"Parque Estadual Serra Santa Bárbara","Parque","Protected Planet","II",6
+"466",115768,"Área De Proteção Ambiental Das Cabeceiras Do Rio Cuiabá","Área de Proteção Ambiental","Protected Planet","V",3
+"467",115769,"Parque Estadual Serra Ricardo Franco","Parque","Protected Planet","II",6
+"468",115772,"Estação Ecológica Do Rio Ronuro","Estação Ecológica","Protected Planet","Ia",7
+"469",115783,"Massaco","Terra Indígena","Protected Planet","VI",2
+"470",115868,"Área De Proteção Ambiental Anhatomirim","Área de Proteção Ambiental","Protected Planet","V",3
+"471",115878,"Área De Relevante Interesse Ecológica Serra Da Abelha","Área de Relevante Interesse Ecológico","Protected Planet","IV",4
+"472",115891,"Reserva Extrativista Extremo Norte Do Tocantins","Reserva Extrativista","Protected Planet","VI",2
+"473",115907,"Área De Relevante Interesse Ecológica Floresta Da Cicuta","Área de Relevante Interesse Ecológico","Protected Planet","IV",4
+"474",115976,"Área De Relevante Interesse Ecológica Mata De Santa Genebra","Área de Relevante Interesse Ecológico","Protected Planet","IV",4
+"475",115977,"Área De Relevante Interesse Ecológica Matão De Cosmópolis","Área de Relevante Interesse Ecológico","Protected Planet","IV",4
+"476",115987,"Área De Relevante Interesse Ecológica Vassununga","Área de Relevante Interesse Ecológico","Protected Planet","IV",4
+"477",115992,"Jacaré de São Domingos","Terra Indígena","Protected Planet","VI",2
+"478",115993,"Área De Proteção Ambiental Barra Do Rio Mamanguape","Área de Proteção Ambiental","Protected Planet","V",3
+"479",116085,"Estação Ecológica De Tamoios","Estação Ecológica","Protected Planet","Ia",7
+"480",116096,"Área De Proteção Ambiental De Fernando De Noronha","Área de Proteção Ambiental","Protected Planet","V",3
+"481",168214,"Reserva Biológica União","Reserva Biológica","Protected Planet","Ia",7
+"482",168273,"Parque Estadual Marinho Da Laje De Santos","Parque","Protected Planet","II",6
+"483",198281,"Parque Nacional Viruá","Parque","Protected Planet","II",6
+"484",198350,"Floresta Nacional De Humaitá","Floresta","Protected Planet","IV",4
+"485",198351,"Parque Nacional Serra Da Mocidade","Parque","Protected Planet","II",6
+"486",198352,"Parque Nacional Do Descobrimento","Parque","Protected Planet","II",6
+"487",198353,"Parque Nacional Pau Brasil","Parque","Protected Planet","II",6
+"488",198355,"Área De Proteção Ambiental Serra Da Ibiapaba","Área de Proteção Ambiental","Protected Planet","V",3
+"489",198356,"Área De Proteção Ambiental Chapada Do Araripe","Área de Proteção Ambiental","Protected Planet","V",3
+"490",198359,"Floresta Nacional Altamira","Floresta","Protected Planet","IV",4
+"491",198360,"Floresta Nacional De Carajás","Floresta","Protected Planet","IV",4
+"492",198361,"Floresta Nacional De Itacaiunas","Floresta","Protected Planet","IV",4
+"493",198362,"Floresta Nacional De Itaituba I","Floresta","Protected Planet","IV",4
+"494",198363,"Floresta Nacional De Itaituba Ii","Floresta","Protected Planet","IV",4
+"495",198366,"Parque Nacional Serra Das Confusões","Parque","Protected Planet","II",6
+"496",198367,"Área De Proteção Ambiental Ilhas E Várzeas Do Rio Paraná","Área de Proteção Ambiental","Protected Planet","V",3
+"497",198369,"Parque Nacional Restinga De Jurubatiba","Parque","Protected Planet","II",6
+"498",198374,"Parque Estadual Xixová-Japuí","Parque","Protected Planet","II",6
+"499",220239,"Floresta Nacional De Contendas Do Sincorá","Floresta","Protected Planet","IV",4
+"500",220241,"Floresta Nacional De Ritápolis","Floresta","Protected Planet","IV",4
+"501",313631,"Área De Proteção Ambiental Costa Dos Corais","Área de Proteção Ambiental","Protected Planet","V",3
+"502",351711,"Estação Ecológica Da Terra Do Meio","Estação Ecológica","Protected Planet","Ia",7
+"503",351712,"Parque Nacional Da Serra Do Pardo","Parque","Protected Planet","II",6
+"504",351713,"Reserva Extrativista Riozinho Da Liberdade","Reserva Extrativista","Protected Planet","VI",2
+"505",351714,"Floresta Nacional De Anauá","Floresta","Protected Planet","IV",4
+"506",351716,"Área De Proteção Ambiental Da Baleia Franca","Área de Proteção Ambiental","Protected Planet","V",3
+"507",351717,"Floresta Nacional De Chapecó","Floresta","Protected Planet","IV",4
+"508",351718,"Parque Nacional De Saint-Hilaire/Lange","Parque","Protected Planet","II",6
+"509",351719,"Reserva Extrativista Mandira","Reserva Extrativista","Protected Planet","VI",2
+"510",351720,"Área De Relevante Interesse Ecológica Ilha Ameixal","Área de Relevante Interesse Ecológico","Protected Planet","IV",4
+"511",351721,"Área De Relevante Interesse Ecológico Ilhas Queimada Grande E Queimada Pequena","Área de Relevante Interesse Ecológico","Protected Planet","IV",4
+"512",351722,"Floresta Nacional De Capão Bonito","Floresta","Protected Planet","IV",4
+"513",351723,"Floresta Nacional De Ipanema","Floresta","Protected Planet","IV",4
+"514",351725,"Reserva Extrativista Marinha Arraial Do Cabo","Reserva Extrativista","Protected Planet","VI",2
+"515",351726,"Floresta Nacional De Lorena","Floresta","Protected Planet","IV",4
+"516",351727,"Área De Proteção Ambiental Da Bacia Do Rio São João - Mico Leão","Área de Proteção Ambiental","Protected Planet","V",3
+"517",351728,"Estação Ecológica Mico Leão Preto","Estação Ecológica","Protected Planet","Ia",7
+"518",351729,"Área De Relevante Interesse Ecológica Pé-De-Gigante","Área de Relevante Interesse Ecológico","Protected Planet","IV",4
+"519",351730,"Parque Nacional Da Serra Da Bodoquena","Parque","Protected Planet","II",6
+"520",351731,"Floresta Nacional De Pacotuba","Floresta","Protected Planet","IV",4
+"521",351732,"Floresta Nacional De Goytacazes","Floresta","Protected Planet","IV",4
+"522",351733,"Floresta Nacional De Paraopeba","Floresta","Protected Planet","IV",4
+"523",351734,"Monumento Natural Dos Pontões Capixabas","Monumento Natural","Protected Planet","III",5
+"524",351735,"Floresta Nacional De Rio Preto","Floresta","Protected Planet","IV",4
+"525",351736,"Parque Nacional Das Sempre Vivas","Parque","Protected Planet","II",6
+"526",351737,"Reserva Extrativista Corumbau","Reserva Extrativista","Protected Planet","VI",2
+"527",351738,"Reserva Biológica Da Mata Escura","Reserva Biológica","Protected Planet","Ia",7
+"528",351740,"Floresta Nacional De Brasília","Floresta","Protected Planet","IV",4
+"529",351741,"Parque Nacional Cavernas Do Peruaçu","Parque","Protected Planet","II",6
+"530",351742,"Área De Proteção Ambiental Das Nascentes Do Rio Vermelho","Área de Proteção Ambiental","Protected Planet","V",3
+"531",351743,"Refugio De Vida Silvestre Veredas Do Oeste Baiano","Refugio de Vida Silvestre","Protected Planet","III",5
+"532",351744,"Reserva Extrativista Marinha Da Baia De Iguapé","Reserva Extrativista","Protected Planet","VI",2
+"533",351745,"Floresta Nacional De Cristópolis","Floresta","Protected Planet","IV",4
+"534",351746,"Área De Proteção Ambiental Meandros Do Araguaia","Área de Proteção Ambiental","Protected Planet","V",3
+"535",351747,"Reserva Extrativista  Do Rio Cautário","Reserva Extrativista","Protected Planet","VI",2
+"536",351748,"Parque Nacional Da Serra Da Cutia","Parque","Protected Planet","II",6
+"537",351749,"Reserva Extrativista Barreiro Das Antas","Reserva Extrativista","Protected Planet","VI",2
+"538",351750,"Área De Relevante Interesse Ecológica Seringal Nova Esperança","Área de Relevante Interesse Ecológico","Protected Planet","IV",4
+"539",351751,"Estacao Ecologica Serra Geral Do Tocantins","Estação Ecológica","Protected Planet","Ia",7
+"540",351752,"Floresta Nacional De São Francisco","Floresta","Protected Planet","IV",4
+"541",351753,"Reserva Extrativista Marinha Da Lagoa Do Jequiá","Reserva Extrativista","Protected Planet","VI",2
+"542",351755,"Floresta Nacional De Santa Rosa Do Purus","Floresta","Protected Planet","IV",4
+"543",351756,"Reserva Extrativista Do Cazumbá-Iracema","Reserva Extrativista","Protected Planet","VI",2
+"544",351757,"Estação Ecológica De Murici","Estação Ecológica","Protected Planet","Ia",7
+"545",351758,"Parque Nacional Das Nascentes Do Rio Parnaiba","Parque","Protected Planet","II",6
+"546",351759,"Reserva Extrativista Alto Tarauacá","Reserva Extrativista","Protected Planet","VI",2
+"547",351760,"Parque Nacional Do Catimbau","Parque","Protected Planet","II",6
+"548",351761,"Reserva Extrativista Lago Do Cuniã","Reserva Extrativista","Protected Planet","VI",2
+"549",351762,"Estação Ecológica De Cuniã","Estação Ecológica","Protected Planet","Ia",7
+"550",351763,"Floresta Nacional De Jatuarana","Floresta","Protected Planet","IV",4
+"551",351764,"Floresta Nacional De Nísia Floresta","Floresta","Protected Planet","IV",4
+"552",351765,"Floresta Nacional De Açu","Floresta","Protected Planet","IV",4
+"553",351766,"Estação Ecológica Do Castanhão","Estação Ecológica","Protected Planet","Ia",7
+"554",351767,"Reserva Extrativista Do Lago Do Capanã Grande","Reserva Extrativista","Protected Planet","VI",2
+"555",351768,"Reserva Extrativista Mata Grande","Reserva Extrativista","Protected Planet","VI",2
+"556",351769,"Reserva Extrativista Médio Juruá","Reserva Extrativista","Protected Planet","VI",2
+"557",351770,"Reserva Extrativista Do Batoque","Reserva Extrativista","Protected Planet","VI",2
+"558",351771,"Floresta Nacional De Sobral","Floresta","Protected Planet","IV",4
+"559",351772,"Reserva Extrativista Baixo Juruá","Reserva Extrativista","Protected Planet","VI",2
+"560",351773,"Reserva Extrativista Do Rio Jutaí","Reserva Extrativista","Protected Planet","VI",2
+"561",351774,"Parque Nacional De Jericoacoara","Parque","Protected Planet","II",6
+"562",351775,"Reserva Extrativista Marinha Do Delta Do Parnaiba","Reserva Extrativista","Protected Planet","VI",2
+"563",351776,"Reserva Extrativista Tapajós Arapiuns","Reserva Extrativista","Protected Planet","VI",2
+"564",351777,"Reserva Extrativista Auatí-Paraná","Reserva Extrativista","Protected Planet","VI",2
+"565",351778,"Reserva Extrativista De Cururupu","Reserva Extrativista","Protected Planet","VI",2
+"566",351779,"Floresta Nacional De Mulata","Floresta","Protected Planet","IV",4
+"567",351780,"Reserva Extrativista São João Da Ponta","Reserva Extrativista","Protected Planet","VI",2
+"568",351781,"Reserva Extrativista Maracanã","Reserva Extrativista","Protected Planet","VI",2
+"569",351782,"Reserva Extrativista Mae Grande De Curuça","Reserva Extrativista","Protected Planet","VI",2
+"570",351783,"Reserva Extrativista Marinha De Soure","Reserva Extrativista","Protected Planet","VI",2
+"571",351784,"Parque Nacional Montanhas Do Tumucumaque","Parque","Protected Planet","II",6
+"572",351785,"Reserva Extrativista Riozinho Do Anfrísio","Reserva Extrativista","Protected Planet","VI",2
+"573",351786,"Reserva Extrativista Verde Para Sempre","Reserva Extrativista","Protected Planet","VI",2
+"574",351787,"Área De Proteção Ambiental Morro Da Pedreira","Área de Proteção Ambiental","Protected Planet","V",3
+"575",351788,"Floresta Nacional Do Araripe-Apodi","Floresta","Protected Planet","IV",4
+"576",351789,"Floresta Nacional Da Mata Grande","Floresta","Protected Planet","IV",4
+"577",351790,"Floresta Nacional De Piraí Do Sul","Floresta","Protected Planet","IV",4
+"578",351791,"Floresta Nacional Da Restinga De Cabedelo","Floresta","Protected Planet","IV",4
+"579",351792,"Floresta Nacional De Jacundá","Floresta","Protected Planet","IV",4
+"580",351793,"Parque Nacional De Ilha Grande","Parque","Protected Planet","II",6
+"581",351794,"Reserva Biológica Da Contagem","Reserva Biológica","Protected Planet","Ia",7
+"582",351795,"Reserva Biológica Nascentes Serra Do Cachimbo","Reserva Biológica","Protected Planet","Ia",7
+"583",351796,"Reserva Extrativista Marinha Caetétaperaçu","Reserva Extrativista","Protected Planet","VI",2
+"584",351797,"Reserva Extrativista Marinha Tracuateua","Reserva Extrativista","Protected Planet","VI",2
+"585",351798,"Reserva Extrativista Marinha Arai-Peroba","Reserva Extrativista","Protected Planet","VI",2
+"586",351799,"Reserva Extrativista Marinha De Gurupi-Piriá","Reserva Extrativista","Protected Planet","VI",2
+"587",351800,"Reserva Extrativista Mapuá","Reserva Extrativista","Protected Planet","VI",2
+"588",351801,"Reserva De Desenvolvimento Sustentável  Itatupã-Baquiá","Reserva de Desenvolvimento Sustentável","Protected Planet","VI",2
+"589",351802,"Reserva Extrativista Ipaú-Anilzinho","Reserva Extrativista","Protected Planet","VI",2
+"590",351803,"Estação Ecológica De Mata Preta","Estação Ecológica","Protected Planet","Ia",7
+"591",351804,"Parque Nacional Das Araucárias","Parque","Protected Planet","II",6
+"592",351805,"Reserva Extrativista Arióca Pruanã","Reserva Extrativista","Protected Planet","VI",2
+"593",351806,"Parque Nacional Da Chapada Das Mesas","Parque","Protected Planet","II",6
+"594",351807,"Floresta Nacional De Palmares","Floresta","Protected Planet","IV",4
+"595",351809,"Floresta Nacional De Irati","Floresta","Protected Planet","IV",4
+"596",351810,"Floresta Nacional De Passa Quatro","Floresta","Protected Planet","IV",4
+"597",351811,"Floresta Nacional De Silvânia","Floresta","Protected Planet","IV",4
+"598",351812,"Floresta Nacional Do Ibura","Floresta","Protected Planet","IV",4
+"599",351813,"Área De Proteção Ambiental Do Tapajós","Área de Proteção Ambiental","Protected Planet","V",3
+"600",351814,"Floresta Nacional Do Jamanxim","Floresta","Protected Planet","IV",4
+"601",351815,"Floresta Nacional Do Crepori","Floresta","Protected Planet","IV",4
+"602",351816,"Floresta Nacional Do Trairão","Floresta","Protected Planet","IV",4
+"603",351817,"Floresta Nacional Do Amaná","Floresta","Protected Planet","IV",4
+"604",351818,"Parque Nacional Do Jamanxim","Parque","Protected Planet","II",6
+"605",351819,"Parque Nacional Do Rio Novo","Parque","Protected Planet","II",6
+"606",351820,"Floresta Nacional De Balata-Tufari","Floresta","Protected Planet","IV",4
+"607",351821,"Estação Ecológica Da Guanabara","Estação Ecológica","Protected Planet","Ia",7
+"608",351822,"Reserva Extrativista Chocoaré-Mato Grosso","Reserva Extrativista","Protected Planet","VI",2
+"609",351823,"Reserva Biológica Das Perobas","Reserva Biológica","Protected Planet","Ia",7
+"610",351824,"Parque Nacional Dos Campos Gerais","Parque","Protected Planet","II",6
+"611",351825,"Reserva Biológica Das Araucárias","Reserva Biológica","Protected Planet","Ia",7
+"612",351826,"Refúgio De Vida Silvestre Dos Campos De Palmas","Refugio de Vida Silvestre","Protected Planet","III",5
+"613",351827,"Parque Nacional Da Serra De Itabaiana","Parque","Protected Planet","II",6
+"614",351828,"Parque Nacional Da Serra Do Itajaí","Parque","Protected Planet","II",6
+"615",351829,"Reserva Extrativista De Canavieiras","Reserva Extrativista","Protected Planet","VI",2
+"616",351830,"Reserva Extrativista Rio Iriri","Reserva Extrativista","Protected Planet","VI",2
+"617",351831,"Reserva Extrativista Terra Grande Pracuuba","Reserva Extrativista","Protected Planet","VI",2
+"618",351832,"Reserva Extrativista Do Rio Unini","Reserva Extrativista","Protected Planet","VI",2
+"619",351833,"Parque Nacional Dos Campos Amazônicos","Parque","Protected Planet","II",6
+"620",351834,"Reserva Extrativista Arapixi","Reserva Extrativista","Protected Planet","VI",2
+"621",351835,"Floresta Nacional De Pau-Rosa","Floresta","Protected Planet","IV",4
+"622",351836,"Reserva Extrativista  Do Recanto Das Araras De Terra Ronca","Reserva Extrativista","Protected Planet","VI",2
+"623",351837,"Reserva Extrativista Lago Do Cedro","Reserva Extrativista","Protected Planet","VI",2
+"624",351838,"Reserva Extrativista Gurupá-Melgaço","Reserva Extrativista","Protected Planet","VI",2
+"625",351839,"Parque Nacional Do Juruena","Parque","Protected Planet","II",6
+"626",351840,"Área De Proteção Ambiental De Guapi-Mirim","Área de Proteção Ambiental","Protected Planet","V",3
+"627",351841,"Área De Proteção Ambiental Do Planalto Central","Área de Proteção Ambiental","Protected Planet","V",3
+"628",351842,"Parque Estadual Chandless","Parque","Protected Planet","II",6
+"629",351846,"Monumento Natural Cachoeira Do Ferro Doido","Monumento Natural","Protected Planet","III",5
+"630",351847,"Área De Relevante Interesse Ecológico Nascente Do Rio De Contas","Área de Relevante Interesse Ecológico","Protected Planet","IV",4
+"631",351848,"Área De Relevante Interesse Ecológico Serra Do Orobó","Área de Relevante Interesse Ecológico","Protected Planet","IV",4
+"632",351849,"Parque Estadual Das Sete Passagens","Parque","Protected Planet","II",6
+"633",351850,"Parque Estadual Da Serra Do Conduru","Parque","Protected Planet","II",6
+"634",351851,"Área De Proteção Ambiental Serra Do Barbado","Área de Proteção Ambiental","Protected Planet","V",3
+"635",351852,"Área De Proteção Ambiental Santo Antônio","Área de Proteção Ambiental","Protected Planet","V",3
+"636",351853,"Área De Proteção Ambiental Serra Branca / Raso Da Catarina","Área de Proteção Ambiental","Protected Planet","V",3
+"637",351858,"Área De Proteção Ambiental Marimbus / Iraquara","Área de Proteção Ambiental","Protected Planet","V",3
+"638",351859,"Área De Proteção Ambiental Lagoa De Itaparica","Área de Proteção Ambiental","Protected Planet","V",3
+"639",351861,"Área De Proteção Ambiental Dunas E Veredas Do Baixo Médio São Francisco","Área de Proteção Ambiental","Protected Planet","V",3
+"640",351863,"Área De Proteção Ambiental Caraíva/ Trancoso","Área de Proteção Ambiental","Protected Planet","V",3
+"641",351864,"Área De Proteção Ambiental Baía De Camamu","Área de Proteção Ambiental","Protected Planet","V",3
+"642",351866,"Área De Proteção Ambiental Bacia Do Rio De Janeiro","Área de Proteção Ambiental","Protected Planet","V",3
+"643",351867,"Área De Proteção Ambiental Bacia Do Cobre / São Bartolomeu","Área de Proteção Ambiental","Protected Planet","V",3
+"644",351868,"Área De Proteção Ambiental Plataforma Continental Do Litoral Norte","Área de Proteção Ambiental","Protected Planet","V",3
+"645",351869,"Área De Proteção Ambiental Lagoa Encantada","Área de Proteção Ambiental","Protected Planet","V",3
+"646",351870,"Área De Proteção Ambiental Costa De Itacaré/ Serra Grande","Área de Proteção Ambiental","Protected Planet","V",3
+"647",351871,"Área De Proteção Ambiental Caminhos Ecológicos Da Boa Esperança","Área de Proteção Ambiental","Protected Planet","V",3
+"648",351872,"Parque Estadual Das Araucárias","Parque","Protected Planet","II",6
+"649",351873,"Parque Estadual Fritz Plaumann","Parque","Protected Planet","II",6
+"650",351874,"Parque Estadual Rio Canoas","Parque","Protected Planet","II",6
+"651",351875,"Parque Estadual Acarai","Parque","Protected Planet","II",6
+"652",351876,"Área De Proteção Ambiental Águas Vertentes","Área de Proteção Ambiental","Protected Planet","V",3
+"653",351878,"Área De Proteção Ambiental Da Chapada Dos Guimarães","Área de Proteção Ambiental","Protected Planet","V",3
+"654",351881,"Área De Proteção Ambiental Serra Da Jibóia","Área de Proteção Ambiental","Protected Planet","V",3
+"655",351882,"Área De Proteção Ambiental Dos Pireneus","Área de Proteção Ambiental","Protected Planet","V",3
+"656",351883,"Área De Proteção Ambiental Serra Geral De Goiás","Área de Proteção Ambiental","Protected Planet","V",3
+"657",351885,"Área De Proteção Ambiental Conceição Da Barra","Área de Proteção Ambiental","Protected Planet","V",3
+"658",351886,"Área De Proteção Ambiental Do Pico Do Goiapaba-Açu","Área de Proteção Ambiental","Protected Planet","V",3
+"659",351888,"Área De Proteção Ambiental De Praia Mole","Área de Proteção Ambiental","Protected Planet","V",3
+"660",351895,"Área De Proteção Ambiental Do Salto Magessi","Área de Proteção Ambiental","Protected Planet","V",3
+"661",351897,"Área De Proteção Ambiental Fernão Dias","Área de Proteção Ambiental","Protected Planet","V",3
+"662",351898,"Área De Proteção Ambiental Foz Do Rio Santa Tereza","Área de Proteção Ambiental","Protected Planet","V",3
+"663",351900,"Área De Proteção Ambiental Ilha Do Bananal/Cantão","Área de Proteção Ambiental","Protected Planet","V",3
+"664",351901,"Área De Proteção Ambiental Jalapão","Área de Proteção Ambiental","Protected Planet","V",3
+"665",351902,"Área De Proteção Ambiental Lago De Palmas","Área de Proteção Ambiental","Protected Planet","V",3
+"666",351903,"Área De Proteção Ambiental Lago De Peixe/Angical","Área de Proteção Ambiental","Protected Planet","V",3
+"667",351904,"Área De Proteção Ambiental Lago De Santa Isabel","Área de Proteção Ambiental","Protected Planet","V",3
+"668",351906,"Área De Proteção Ambiental Lajedão","Área de Proteção Ambiental","Protected Planet","V",3
+"669",351907,"Área De Proteção Ambiental Pouso Alto","Área de Proteção Ambiental","Protected Planet","V",3
+"670",351910,"Área De Proteção Ambiental Da Serra Das Galés E Da Portaria","Área de Proteção Ambiental","Protected Planet","V",3
+"671",351911,"Área De Proteção Ambiental Serra Do Lajeado","Área de Proteção Ambiental","Protected Planet","V",3
+"672",351912,"Área De Proteção Ambiental Serra São José","Área de Proteção Ambiental","Protected Planet","V",3
+"673",351928,"Reserva Biológica Jaíba","Reserva Biológica","Protected Planet","Ia",7
+"674",351929,"Área De Relevante Interesse Ecológico Águas De São João","Área de Relevante Interesse Ecológico","Protected Planet","IV",4
+"675",351931,"Parque Estadual Da Ilha Do Mel","Parque","Protected Planet","II",6
+"676",351936,"Estação Ecológica De Acauã","Estação Ecológica","Protected Planet","Ia",7
+"677",351937,"Estação Ecológica De Água Limpa","Estação Ecológica","Protected Planet","Ia",7
+"678",351938,"Estação Ecológica De Angatuba","Estação Ecológica","Protected Planet","Ia",7
+"679",351939,"Estação Ecológica De Assis","Estação Ecológica","Protected Planet","Ia",7
+"680",351940,"Estação Ecológica De Fechos","Estação Ecológica","Protected Planet","Ia",7
+"681",351941,"Estação Ecológica De Corumbá","Estação Ecológica","Protected Planet","Ia",7
+"682",351943,"Estação Ecológica Estadual Aratinga","Estação Ecológica","Protected Planet","Ia",7
+"683",351945,"Estação Ecológica Mar De Espanha","Estação Ecológica","Protected Planet","Ia",7
+"684",351947,"Estação Ecológica Mata Dos Ausentes","Estação Ecológica","Protected Planet","Ia",7
+"685",351948,"Estação Ecológica De Mogi-Guaçu","Estação Ecológica","Protected Planet","Ia",7
+"686",351949,"Estação Ecológica De Paranapanema","Estação Ecológica","Protected Planet","Ia",7
+"687",351952,"Estação Ecológica De Santa Maria","Estação Ecológica","Protected Planet","Ia",7
+"688",351954,"Floresta Estadual De Assis","Floresta","Protected Planet","IV",4
+"689",351972,"Parque Estadual  Da Ilha Do Cardoso","Parque","Protected Planet","II",6
+"690",351978,"Floresta Estadual Do Araguaia","Floresta","Protected Planet","IV",4
+"691",351980,"Floresta Estadual Edmundo Navarro De Andrade","Floresta","Protected Planet","IV",4
+"692",351990,"Parque Estadual De Itapeva","Parque","Protected Planet","II",6
+"693",351991,"Parque Estadual Do Aguapeí","Parque","Protected Planet","II",6
+"694",351992,"Parque Estadual Águas Do Cuiabá","Parque","Protected Planet","II",6
+"695",351993,"Parque Estadual Alberto Löfgren","Parque","Protected Planet","II",6
+"696",351994,"Parque Estadual Altamiro De Moura Pacheco","Parque","Protected Planet","II",6
+"697",351996,"Parque Estadual Da Campina Do Encantado","Parque","Protected Planet","II",6
+"698",351997,"Parque Estadual Cristalino","Parque","Protected Planet","II",6
+"699",351999,"Parque Estadual Mãe Bonifácia","Parque","Protected Planet","II",6
+"700",352002,"Parque Estadual Das Nascentes Do Rio Taquari","Parque","Protected Planet","II",6
+"701",352004,"Parque Estadual Serra Azul","Parque","Protected Planet","II",6
+"702",352006,"Parque Estadual Da Serra Dourada","Parque","Protected Planet","II",6
+"703",352008,"Parque Estadual De Paraúna","Parque","Protected Planet","II",6
+"704",352010,"Parque Estadual De Terra Ronca","Parque","Protected Planet","II",6
+"705",352011,"Parque Estadual Do Araguaia","Parque","Protected Planet","II",6
+"706",352012,"Parque Estadual Do Boguaçu","Parque","Protected Planet","II",6
+"707",352013,"Parque Estadual Do Cantão","Parque","Protected Planet","II",6
+"708",352015,"Parque Estadual Do Guartelá","Parque","Protected Planet","II",6
+"709",352016,"Parque Estadual Do Guirá","Parque","Protected Planet","II",6
+"710",352017,"Parque Estadual Das Várzeas Do Rio Ivinhema","Parque","Protected Planet","II",6
+"711",352018,"Parque Estadual Do Jalapão","Parque","Protected Planet","II",6
+"712",352020,"Parque Estadual Do Lajeado","Parque","Protected Planet","II",6
+"713",352021,"Parque Estadual Do Pantanal Do Rio Negro","Parque","Protected Planet","II",6
+"714",352023,"Parque Estadual Do Prosa","Parque","Protected Planet","II",6
+"715",352025,"Parque Estadual Do Rio Peixe","Parque","Protected Planet","II",6
+"716",352026,"Parque Estadual Matas Do Segredo","Parque","Protected Planet","II",6
+"717",352027,"Parque Estadual Do Xingu","Parque","Protected Planet","II",6
+"718",352028,"Parque Estadual Dom Osório Stoffel","Parque","Protected Planet","II",6
+"719",352029,"Parque Estadual Dos Pirineus","Parque","Protected Planet","II",6
+"720",352031,"Parque Estadual Das Furnas Do Bom Jesus","Parque","Protected Planet","II",6
+"721",352032,"Parque Estadual Grão Mogol","Parque","Protected Planet","II",6
+"722",352038,"Parque Estadual Do Juquery","Parque","Protected Planet","II",6
+"723",352039,"Parque Estadual Lagoa Do Cajueiro","Parque","Protected Planet","II",6
+"724",352040,"Parque Estadual Dos Mananciais De Campos Do Jordão","Parque","Protected Planet","II",6
+"725",352042,"Parque Estadual Mata Seca","Parque","Protected Planet","II",6
+"726",352043,"Parque Estadual Nova Baden","Parque","Protected Planet","II",6
+"727",352045,"Parque Estadual Pico Do Itambé","Parque","Protected Planet","II",6
+"728",352047,"Parque Estadual Rio Corrente","Parque","Protected Planet","II",6
+"729",352049,"Parque Estadual Rio Preto","Parque","Protected Planet","II",6
+"730",352051,"Parque Estadual Serra Do Papagaio","Parque","Protected Planet","II",6
+"731",352052,"Parque Estadual Serra Negra","Parque","Protected Planet","II",6
+"732",352053,"Parque Estadual Serra Do Rola Moça","Parque","Protected Planet","II",6
+"733",352054,"Parque Estadual Sete Salões","Parque","Protected Planet","II",6
+"734",352055,"Parque Estadual Do Sumidouro","Parque","Protected Planet","II",6
+"735",352057,"Parque Estadual Tucumã","Parque","Protected Planet","II",6
+"736",352058,"Parque Estadual Verde Grande","Parque","Protected Planet","II",6
+"737",352059,"Reserva De Desenvolvimento Sustentável Veredas Do Acari","Reserva de Desenvolvimento Sustentável","Protected Planet","VI",2
+"738",352060,"Parque Estadual Veredas Do Peruaçu","Parque","Protected Planet","II",6
+"739",352062,"Parque Estadual Da Serra Dos Martírios/Andorinhas","Parque","Protected Planet","II",6
+"740",352070,"Reserva Biológica Estadual Mata Paludosa","Reserva Biológica","Protected Planet","Ia",7
+"741",352082,"Refúgio De Vida Silvestre Banhado Dos Pachecos","Refugio de Vida Silvestre","Protected Planet","III",5
+"742",352083,"Refúgio De Vida Silvestre Corixão Da Mata Azul","Refugio de Vida Silvestre","Protected Planet","III",5
+"743",352097,"Arie Do Bosque","Área de Relevante Interesse Ecológico","Protected Planet","IV",4
+"744",352101,"Reserva Biológica Do Cerradão","Reserva Biológica","Protected Planet","Ia",7
+"745",352116,"Área De Proteção Ambiental Do Lagamar Do Cauipe","Área de Proteção Ambiental","Protected Planet","V",3
+"746",352117,"Área De Proteção Ambiental Da Serra Da Aratanha","Área de Proteção Ambiental","Protected Planet","V",3
+"747",352118,"Área De Proteção Ambiental De Gericinó/Mendanha","Área de Proteção Ambiental","Protected Planet","V",3
+"748",352119,"Área De Proteção Ambiental Do Pau Brasil","Área de Proteção Ambiental","Protected Planet","V",3
+"749",352120,"Área De Proteção Ambiental Da Bacia Do Rio Dos Frades","Área de Proteção Ambiental","Protected Planet","V",3
+"750",352121,"Área De Proteção Ambiental Da Bacia Do Rio Macacu","Área de Proteção Ambiental","Protected Planet","V",3
+"751",352122,"Parque Estadual Da Serra Da Concórdia","Parque","Protected Planet","II",6
+"752",352126,"Estação Ecológica Estadual De Guaxindiba","Estação Ecológica","Protected Planet","Ia",7
+"753",352128,"Área De Proteção Ambiental Da Região Do Maracanã","Área de Proteção Ambiental","Protected Planet","V",3
+"754",352130,"Área De Proteção Ambiental Da Baixada Maranhense","Área de Proteção Ambiental","Protected Planet","V",3
+"755",352131,"Área De Proteção Ambiental Da Foz Do Rio Das Preguiças - Pequenos Lençóis - Região Lagunar Adjacente","Área de Proteção Ambiental","Protected Planet","V",3
+"756",352134,"Reserva De Desenvolvimento Sustentável Amanã","Reserva de Desenvolvimento Sustentável","Protected Planet","VI",2
+"757",352135,"Reserva Extrativista Catuá-Ipixuna","Reserva Extrativista","Protected Planet","VI",2
+"758",352136,"Reserva De Desenvolvimento Sustentável Piagaçu Purus","Reserva de Desenvolvimento Sustentável","Protected Planet","VI",2
+"759",352137,"Reserva De Desenvolvimento Sustentável Rio Amapá","Reserva de Desenvolvimento Sustentável","Protected Planet","VI",2
+"760",352138,"Reserva De Desenvolvimento Sustentável Uacarí","Reserva de Desenvolvimento Sustentável","Protected Planet","VI",2
+"761",352139,"Reserva De Desenvolvimento Sustentável Cujubim","Reserva de Desenvolvimento Sustentável","Protected Planet","VI",2
+"762",352140,"Reserva De Desenvolvimento Sustentável Do Uatumã","Reserva de Desenvolvimento Sustentável","Protected Planet","VI",2
+"763",352141,"Floresta Estadual Maúes","Floresta","Protected Planet","IV",4
+"764",352142,"Reserva De Desenvolvimento Sustentável Canumã","Reserva de Desenvolvimento Sustentável","Protected Planet","VI",2
+"765",352143,"Floresta Estadual Rio Urubu","Floresta","Protected Planet","IV",4
+"766",352144,"Área De Proteção Ambiental Margem Esquerda Do Rio Negro-Setor Aturiá-Apuauzinho","Área de Proteção Ambiental","Protected Planet","V",3
+"767",352145,"Área De Proteção Ambiental Margem Esquerda Do Rio Negro-Setor Tarumã Açu-Tarumã Mirima","Área de Proteção Ambiental","Protected Planet","V",3
+"768",352146,"Parque Estadual Rio Negro Setor Sul","Parque","Protected Planet","II",6
+"769",352147,"Área De Proteção Ambiental Margem Direita Do Rio Negro- Setor Paduari-Solimões","Área de Proteção Ambiental","Protected Planet","V",3
+"770",352148,"Parque Estadual Sumaúma","Parque","Protected Planet","II",6
+"771",352149,"Parque Estadual Rio Negro Setor Norte","Parque","Protected Planet","II",6
+"772",352150,"Floresta Estadual Aripuanã","Floresta","Protected Planet","IV",4
+"773",352151,"Reserva Extrativista Do Guariba","Reserva Extrativista","Protected Planet","VI",2
+"774",352152,"Parque Estadual Guariba","Parque","Protected Planet","II",6
+"775",352153,"Floresta Estadual Manicoré","Floresta","Protected Planet","IV",4
+"776",352154,"Reserva De Desenvolvimento Sustentável Bararati","Reserva de Desenvolvimento Sustentável","Protected Planet","VI",2
+"777",352155,"Floresta Estadual Apuí","Floresta","Protected Planet","IV",4
+"778",352156,"Parque Estadual Sucunduri","Parque","Protected Planet","II",6
+"779",352157,"Floresta Estadual Sucunduri","Floresta","Protected Planet","IV",4
+"780",352158,"Reserva De Desenvolvimento Sustentável Aripuanã","Reserva de Desenvolvimento Sustentável","Protected Planet","VI",2
+"781",352159,"Reserva Extrativista Jaci-Paraná","Reserva Extrativista","Protected Planet","VI",2
+"782",352160,"Reserva Extrativista Maracatiara","Reserva Extrativista","Protected Planet","VI",2
+"783",352161,"Reserva Extrativista Massaranduba","Reserva Extrativista","Protected Planet","VI",2
+"784",352162,"Reserva Extrativista Angelim","Reserva Extrativista","Protected Planet","VI",2
+"785",352163,"Reserva Extrativista Ipê","Reserva Extrativista","Protected Planet","VI",2
+"786",352164,"Reserva Extrativista Sucupira","Reserva Extrativista","Protected Planet","VI",2
+"787",352165,"Floresta Estadual De Rendimento Sustentado Cedro","Floresta","Protected Planet","IV",4
+"788",352166,"Reserva Extrativista Mogno","Reserva Extrativista","Protected Planet","VI",2
+"789",352167,"Reserva Extrativista Garrote","Reserva Extrativista","Protected Planet","VI",2
+"790",352168,"Reserva Extrativista Aquariquara","Reserva Extrativista","Protected Planet","VI",2
+"791",352169,"Reserva Extrativista Seringueira","Reserva Extrativista","Protected Planet","VI",2
+"792",352170,"Reserva Extrativista Roxinho","Reserva Extrativista","Protected Planet","VI",2
+"793",352171,"Reserva Extrativista Freijó","Reserva Extrativista","Protected Planet","VI",2
+"794",352172,"Reserva Extrativista Piquiá","Reserva Extrativista","Protected Planet","VI",2
+"795",352173,"Reserva Extrativista Castanheira","Reserva Extrativista","Protected Planet","VI",2
+"796",352174,"Reserva Extrativista Do Itaúba","Reserva Extrativista","Protected Planet","VI",2
+"797",352175,"Floresta Estadual De Rendimento Sustentado Gavião","Floresta","Protected Planet","IV",4
+"798",352176,"Floresta Estadual De Rendimento Sustentado Periquito","Floresta","Protected Planet","IV",4
+"799",352177,"Floresta Estadual De Rendimento Sustentado Mutum","Floresta","Protected Planet","IV",4
+"800",352178,"Floresta Estadual De Rendimento Sustentado Araras","Floresta","Protected Planet","IV",4
+"801",352179,"Floresta Estadual De Rendimento Sustentado Tucano","Floresta","Protected Planet","IV",4
+"802",352180,"Reserva Extrativista Jatobá","Reserva Extrativista","Protected Planet","VI",2
+"803",352181,"Reserva Extrativista Curralinho","Reserva Extrativista","Protected Planet","VI",2
+"804",352182,"Reserva Extrativista Pedras Negras","Reserva Extrativista","Protected Planet","VI",2
+"805",352183,"Área De Proteção Ambiental Da Bica Do Ipú","Área de Proteção Ambiental","Protected Planet","V",3
+"806",352184,"Área De Proteção Ambiental Da Lagoa Da Jijoca","Área de Proteção Ambiental","Protected Planet","V",3
+"807",352185,"Parque Estadual Marinho Da Pedra Da Risca Do Meio","Parque","Protected Planet","II",6
+"808",352186,"Área De Proteção Ambiental Das Dunas Da Lagoinha","Área de Proteção Ambiental","Protected Planet","V",3
+"809",352188,"Área De Proteção Ambiental Das Dunas Do Litoral Oeste","Área de Proteção Ambiental","Protected Planet","V",3
+"810",352190,"Área De Proteção Ambiental Da Lagoa Do Uruaú","Área de Proteção Ambiental","Protected Planet","V",3
+"811",352191,"Monumento Natural Das Falésias De Beberibe","Monumento Natural","Protected Planet","III",5
+"812",352193,"Área De Proteção Ambiental Do Rio Pacoti","Área de Proteção Ambiental","Protected Planet","V",3
+"813",352194,"Área De Proteção Ambiental Do Estuário Do Rio Mundaú","Área de Proteção Ambiental","Protected Planet","V",3
+"814",352197,"Parque Estadual Igarapés Do Juruena","Parque","Protected Planet","II",6
+"815",352198,"Estação Ecológica Do Grão Pará","Estação Ecológica","Protected Planet","Ia",7
+"816",352199,"Floresta Estadual De Faro","Floresta","Protected Planet","IV",4
+"817",352200,"Floresta Estadual Do Paru","Floresta","Protected Planet","IV",4
+"818",352201,"Floresta Estadual Do Trombetas","Floresta","Protected Planet","IV",4
+"819",352202,"Reserva Biológica De Maicuru","Reserva Biológica","Protected Planet","Ia",7
+"820",352203,"Área De Proteção Ambiental Triunfo Do Xingu","Área de Proteção Ambiental","Protected Planet","V",3
+"821",352204,"Floresta Estadual De Iriri","Floresta","Protected Planet","IV",4
+"822",352211,"Área De Proteção Ambiental De São Geraldo Do Araguaia","Área de Proteção Ambiental","Protected Planet","V",3
+"823",352212,"Área De Proteção Ambiental Da Ilha Do Combu","Área de Proteção Ambiental","Protected Planet","V",3
+"824",352217,"Reserva De Desenvolvimento Sustentável Pucuruí - Ararão","Reserva de Desenvolvimento Sustentável","Protected Planet","VI",2
+"825",352219,"Parque Estadual De Monte Alegre","Parque","Protected Planet","II",6
+"826",352220,"Área De Proteção Ambiental Paytuna","Área de Proteção Ambiental","Protected Planet","V",3
+"827",352257,"Médio Rio Negro II","Terra Indígena","Protected Planet","VI",2
+"828",352258,"Alto Rio Negro","Terra Indígena","Protected Planet","VI",2
+"829",352259,"Médio Rio Negro I","Terra Indígena","Protected Planet","VI",2
+"830",352260,"Trombetas/Mapuera","Terra Indígena","Protected Planet","VI",2
+"831",352261,"Zo'e","Terra Indígena","Protected Planet","VI",2
+"832",352262,"Balaio","Terra Indígena","Protected Planet","VI",2
+"833",352263,"Cué Cué/ Marabitanas","Terra Indígena","Protected Planet","VI",2
+"834",352264,"São Marcos - RR","Terra Indígena","Protected Planet","VI",2
+"835",352265,"Anaro","Terra Indígena","Protected Planet","VI",2
+"836",352266,"Moskow","Terra Indígena","Protected Planet","VI",2
+"837",352267,"Pankararé","Terra Indígena","Protected Planet","VI",2
+"838",352268,"Brejo do Burgo","Terra Indígena","Protected Planet","VI",2
+"839",352269,"Krenak","Terra Indígena","Protected Planet","VI",2
+"840",352270,"Guató","Terra Indígena","Protected Planet","VI",2
+"841",352271,"Kadiwéu","Terra Indígena","Protected Planet","VI",2
+"842",352272,"Kulina do Rio Envira","Terra Indígena","Protected Planet","VI",2
+"843",352273,"Jaminaua/Envira","Terra Indígena","Protected Planet","VI",2
+"844",352274,"Arara do Rio Branco","Terra Indígena","Protected Planet","VI",2
+"845",352275,"Água Preta/Inari","Terra Indígena","Protected Planet","VI",2
+"846",257844,"Alter do Chão","APA","USP","V",3
+"847",258179,"Vitória de Sousel","RDS","USP","VI",2
+"848",258194,"Tabuleiro do Embaubal","REVIS","USP","III",5
+"849",669410,"Ciríaco","RESEX","USP","VI",2
+"850",669561,"Utinga","PARES","USP","II",6
+"851",669575,"Região Metropolitana de Belém","APA","USP","V",3
+"852",669594,"Metrópole da Amazônia","REVIS","USP","III",5
+"853",189435,"Canutama","FLOES","USP","VI",2
+"854",189660,"Manicoré","REBIO","USP","Ia",7
+"855",189803,"Aripuanã","FLONA","USP","VI",2
+"856",189881,"Juma","RDS","USP","VI",2
+"857",74372,"Lago do Amapá","APA","USP","V",3
+"858",74386,"Igarapé São Francisco","APA","USP","V",3
+"859",74638,"Espinilho","PARES","USP","II",6
+"860",74652,"Ibirapuitã","APA","USP","V",3
+"861",74667,"São Donato","REBIO","USP","Ia",7
+"862",74724,"Quarta Colônia","PARES","USP","II",6
+"863",74738,"Banhado do Maçarico","REVIS","USP","III",5
+"864",74752,"Camaquã","PARES","USP","II",6
+"865",74767,"Delta do Jacuí","APA","USP","V",3
+"866",74820,"Delta do Jacuí","PARES","USP","II",6
+"867",74860,"Itapuã","PARES","USP","II",6
+"868",74874,"Saint-Hilaire","PNM","USP","II",6
+"869",97266,"Papagaio-Charão","PARES","USP","II",6
+"870",97352,"Rio Canoas","PARES","USP","II",6
+"871",97366,"Tainhas","PARES","USP","II",6
+"872",97394,"Emílio Einsfeld Filho","RPPN","USP","IV",4
+"873",97457,"Rio dos Touros","ESEC","USP","Ia",7
+"874",97471,"Serra da Esperança","APA","USP","V",3
+"875",97551,"Santa Angélica","RPPN","USP","IV",4
+"876",97567,"Piraputangas","PNM","USP","II",6
+"877",97581,"Baía Negra","APA","USP","V",3
+"878",97637,"Engenheiro Eliezer Batista","RPPN","USP","IV",4
+"879",97680,"Encontro das Águas","PARES","USP","II",6
+"880",97694,"Estância Caiman","RPPN","USP","IV",4
+"881",557081,"Primavera","RPPN","USP","IV",4
+"882",557210,"Primavera I","RPPN","USP","IV",4
+"883",557296,"Flor do Norte I","RPPN","USP","IV",4
+"884",557358,"Fazenda Primavera","APA","USP","V",3
+"885",557432,"Piracanjubinha","APA","USP","V",3
+"886",557446,"Fanha","APA","USP","V",3
+"887",557460,"Minaçu","APA","USP","V",3
+"888",624551,"Caminho dos Gerais","PARES","USP","II",6
+"889",624579,"Serra Nova e Talhado","PARES","USP","II",6
+"890",624593,"Montezuma","PARES","USP","II",6
+"891",624607,"Nascentes Geraizeiras","RDS","USP","VI",2
+"892",624621,"Serra dos Montes Altos","PARES","USP","II",6
+"893",624640,"Serra dos Montes Altos","REVIS","USP","III",5
+"894",624694,"São Desidério","APA","USP","V",3
+"895",624722,"Rio Preto","ESEC","USP","Ia",7
+"896",624952,"Árvores Fossilizadas","MONA","USP","III",5
+"897",624966,"Nascentes de Araguaína","APA","USP","V",3
+"898",228596,"Encantado","APA","USP","V",3
+"899",228652,"Fazenda Nova","APA","USP","V",3
+"900",596609,"Vale do Rio Manso","APA","USP","V",3
+"901",597055,"Lapa Grande","PARES","USP","II",6
+"902",597085,"Sseea Azul","REBIO","USP","Ia",7
+"903",273187,"Charapucu","PARES","USP","II",6
+"904",273202,"Morro de Osório","APA","USP","V",3
+"905",273327,"Complexo Serra da Farofa","RPPN","USP","IV",4
+"906",273377,"Grande Floresta das Araucárias","RPPN","USP","IV",4
+"907",273507,"Maciço da Costeira","PNM","USP","II",6
+"908",273521,"Serra de São Miguel","PNM","USP","II",6
+"909",273564,"Dunas da Lagoa da Conceição","PNM","USP","II",6
+"910",273578,"Rio Vermelho","PARES","USP","II",6
+"911",273608,"Sassafrás","REBIO","USP","Ia",7
+"912",273623,"Emílio Fiorentino Battistella","RPPN","USP","IV",4
+"913",273651,"Rio Verde","APA","USP","V",3
+"914",273667,"Passaúna","APA","USP","V",3
+"915",300185,"Brilhante","APA","USP","V",3
+"916",300199,"Morro do Baú","PNM","USP","II",6
+"917",300213,"Itapema","REVIS","USP","III",5
+"918",300242,"Serra Dona Francisca","APA","USP","V",3
+"919",300256,"Guaricana","PARNA","USP","II",6
+"920",300271,"Iguaçu","APA","USP","V",3
+"921",300300,"Rio Piraquara","APA","USP","V",3
+"922",300316,"Iraí","APA","USP","V",3
+"923",300647,"Corumbataí, Botucatu e Tejupá - perímetro Tejupá","APA","USP","V",3
+"924",300684,"Pinheirinhos","RDS","USP","VI",2
+"925",689961,"Chapada Limpa","RESEX","USP","VI",2
+"926",689975,"Morros Garapenses","APA","USP","V",3
+"927",690013,"Baía do Tubarão","RESEX","USP","VI",2
+"928",690099,"Mata dos Muriquis","REVIS","USP","III",5
+"929",690116,"Alto Cariri","PARNA","USP","II",6
+"930",690132,"Alto do Cariri","PARES","USP","II",6
+"931",690206,"Serra do Ouro","APA","USP","V",3
+"932",690223,"Boa Nova","PARNA","USP","II",6
+"933",690259,"Boa Nova","REVIS","USP","III",5
+"934",690346,"Rio do Brasil II","RPPN","USP","IV",4
+"935",690367,"Rio do Brasil III","RPPN","USP","IV",4
+"936",690386,"Rio do Brasil I","RPPN","USP","IV",4
+"937",690404,"Rio da Barra","RPPN","USP","IV",4
+"938",690420,"Rio do Brasil V","RPPN","USP","IV",4
+"939",690439,"Rio do Brasil IV","RPPN","USP","IV",4
+"940",690455,"Terravista I","RPPN","USP","IV",4
+"941",690489,"Terravista II","RPPN","USP","IV",4
+"942",111777,"Fazenda Santa Sofia","RPPN","USP","IV",4
+"943",111791,"Fazenda Rio Negro","RPPN","USP","IV",4
+"944",111805,"Estrada Parque de Piraputanga","APA","USP","V",3
+"945",111819,"Fazenda Lageado","RPPN","USP","IV",4
+"946",111837,"Santa Cecília II","RPPN","USP","IV",4
+"947",111851,"Poleiro Grande","RPPN","USP","IV",4
+"948",111865,"Rio Cênico Rotas Monçoeiras","APA","USP","V",3
+"949",111879,"Cachoeiras do São Bento","RPPN","USP","IV",4
+"950",112079,"Caiuá","ESEC","USP","Ia",7
+"951",112111,"Serra da Esperança","PARES","USP","II",6
+"952",112143,"Mosquito","RPPN","USP","IV",4
+"953",112222,"Pombo","PNM","USP","II",6
+"954",112236,"Serra do Bom Jardim","MONA","USP","III",5
+"955",134765,"Rio Vermelho C","FLOES","USP","VI",2
+"956",134794,"Rio Madeira","APA","USP","V",3
+"957",150284,"Rio Flor do Prado","ESEC","USP","Ia",7
+"958",204294,"Acari","PARNA","USP","II",6
+"959",204594,"Serra das Araras","ESEC","USP","Ia",7
+"960",204684,"Nascentes do Rio Paraguai","APA","USP","V",3
+"961",204742,"Peugeot Brasil","RPPN","USP","IV",4
+"962",497940,"Serra Negra da Mantiqueira","PARES","USP","II",6
+"963",497970,"Alto do Gaia","APA","USP","V",3
+"964",497987,"Pedra de Inoã","MONA","USP","III",5
+"965",498002,"Serras de Maricá","REVIS","USP","III",5
+"966",498033,"Serras de Maricá","APA","USP","V",3
+"967",498367,"Sana","APA","USP","V",3
+"968",498381,"Serra da Bolívia","APA","USP","V",3
+"969",498397,"Serra da Bolívia","MONA","USP","III",5
+"970",498412,"Ventania","REVIS","USP","III",5
+"971",498427,"Miracema","APA","USP","V",3
+"972",498442,"Perdição","APA","USP","V",3
+"973",498458,"Floresta","MONA","USP","III",5
+"974",498472,"Raposo","APA","USP","V",3
+"975",498487,"Sagui da Serra Escuro","REVIS","USP","III",5
+"976",498502,"Serra da Boa Esperança","PARES","USP","II",6
+"977",498516,"Campos Altos","PARES","USP","II",6
+"978",498530,"Vargem das Flores","APA","USP","V",3
+"979",498545,"Aroeiras","REVIS","USP","III",5
+"980",332522,"Lavras","RDS","USP","VI",2
+"981",332640,"Corumbataí, Botucatu e Tejupá - perímetro Botucatu","APA","USP","V",3
+"982",332698,"Leopoldo Magno Coutinho","ARIE","USP","IV",4
+"983",332721,"Pederneiras","FLOES","USP","VI",2
+"984",332735,"Ibitinga","APA","USP","V",3
+"985",537492,"Serra da Candonga","PARES","USP","II",6
+"986",537520,"Biribiri","PARES","USP","II",6
+"987",537609,"Botumirim","PARES","USP","II",6
+"988",537652,"Santo Antônio","RPPN","USP","IV",4
+"989",537666,"Carapeba Boa","APA","USP","V",3
+"990",537728,"Rio do Colégio","APA","USP","V",3
+"991",537742,"Chauá","REVIS","USP","III",5
+"992",537756,"Lagoa do Açu","PARES","USP","II",6
+"993",537770,"Fazenda Caruara","RPPN","USP","IV",4
+"994",537784,"Serra das Torres","MONA","USP","III",5
+"995",537859,"Fazenda Boa Esperança","RPPN","USP","IV",4
+"996",537875,"Mata das Flores","PARES","USP","II",6
+"997",537889,"Itabira","MONA","USP","III",5
+"998",537903,"O Frade e a Freira","MONA","USP","III",5
+"999",537931,"Águia Branca","RPPN","USP","IV",4
+"1000",549819,"Pico do Ibituruna","MONA","USP","III",5
+"1001",549847,"Guanandi","APA","USP","V",3
+"1002",549861,"Papagaio","RDS","USP","VI",2
+"1003",549875,"Paulo César Vinha","PARES","USP","II",6
+"1004",549890,"Setiba","APA","USP","V",3
+"1005",549908,"Monte Mochuara","APA","USP","V",3
+"1006",549923,"Monte Mochuara","PNM","USP","II",6
+"1007",549938,"Lagoa Grande","APA","USP","V",3
+"1008",549954,"Manguezal de Cariacica","RDS","USP","VI",2
+"1009",550042,"Vale do Mulemba","PNM","USP","II",6
+"1010",550057,"Manguezal Sul de Serra","APA","USP","V",3
+"1011",550074,"Ilha do Lameirão","ESEC","USP","Ia",7
+"1012",550147,"Piraquê-Açu e Piraquê-Mirim","RDS","USP","VI",2
+"1013",550190,"Recanto das Antas","RPPN","USP","IV",4
+"1014",550207,"Alto do Mucuri","APA","USP","V",3
+"1015",550251,"Degredo","ARIE","USP","IV",4
+"1016",550279,"Itaúnas","PARES","USP","II",6
+"1017",550307,"Fernandes","RPPN","USP","IV",4
+"1018",417352,"Rios Tijuco e da Prata","REVIS","USP","III",5
+"1019",417371,"Panamá","APA","USP","V",3
+"1020",417385,"Mata Atlântica","PARES","USP","II",6
+"1021",417399,"Torre de Pedra","APA","USP","V",3
+"1022",417413,"Bacia do Córrego Capão Grande","APA","USP","V",3
+"1023",417456,"Bacia Hidrográfica do Rio Uberaba","APA","USP","V",3
+"1024",417484,"Pau Furado","PARES","USP","II",6
+"1025",417498,"Limoeiro","APA","USP","V",3
+"1026",417512,"Córrego da Lagoa","APA","USP","V",3
+"1027",417526,"Paracatu","PARES","USP","II",6
+"1028",417605,"Banhado","APA","USP","V",3
+"1029",417729,"Aventureiro","RDS","USP","VI",2
+"1030",417744,"Praia do Sul","REBIO","USP","Ia",7
+"1031",417803,"Ilha Grande","PARES","USP","II",6
+"1032",417850,"Pedra Branca","ARIE","USP","IV",4
+"1033",417904,"Trabiju","PNM","USP","II",6
+"1034",362996,"Ituparanga","APA","USP","V",3
+"1035",363044,"Bororé-Colônia","APA","USP","V",3
+"1036",363059,"Cabreúva","APA","USP","V",3
+"1037",363075,"Cajamar","APA","USP","V",3
+"1038",363105,"Jundiaí","APA","USP","V",3
+"1039",363142,"Serra do Guararu","APA","USP","V",3
+"1040",363201,"Pedra Grande","MONA","USP","III",5
+"1041",363231,"Botujuru-Serra do Itapeti","RPPN","USP","IV",4
+"1042",363275,"Barreiro Rico","APA","USP","V",3
+"1043",363290,"Tietê","APA","USP","V",3
+"1044",363337,"Campo Grande","APA","USP","V",3
+"1045",363431,"Campinas","APA","USP","V",3
+"1046",518276,"Serra do Cabral","PARES","USP","II",6
+"1047",518290,"Serra do Ouro Branco","PARES","USP","II",6
+"1048",518305,"Itatiaia","MONA","USP","III",5
+"1049",518321,"Serra da Moeda","MONA","USP","III",5
+"1050",518335,"Aredes","ESEC","USP","Ia",7
+"1051",518383,"Cercadinho","ESEC","USP","Ia",7
+"1052",518564,"Macaúbas","REVIS","USP","III",5
+"1053",518579,"Serra da Piedade","MONA","USP","III",5
+"1054",518642,"Limoeiro","PARES","USP","II",6
+"1055",518694,"Piracicaba","APA","USP","V",3
+"1056",518714,"Córrego da Mata","APA","USP","V",3
+"1057",518760,"Água Santa de Minas","APA","USP","V",3
+"1058",518775,"Alto Taboão","APA","USP","V",3
+"1059",452299,"Bacia Hidrográfica do Rio Machado","APA","USP","V",3
+"1060",452313,"Silveiras","APA","USP","V",3
+"1061",452347,"Pico do Itaguaré","MONA","USP","III",5
+"1062",452441,"Santo Antônio","RPPN","USP","IV",4
+"1063",452474,"Mata Atlântica","PNM","USP","II",6
+"1064",452535,"Carapiá","APA","USP","V",3
+"1065",452651,"Grumari","PNM","USP","II",6
+"1066",452669,"Serra da Cambraia","APA","USP","V",3
+"1067",452684,"Curió","PNM","USP","II",6
+"1068",452698,"Guandu-Açu","APA","USP","V",3
+"1069",452779,"Serra da Beleza","MONA","USP","III",5
+"1070",452794,"Boqueirão da Mira","APA","USP","V",3
+"1071",475012,"Prainha","PNM","USP","II",6
+"1072",475027,"Pedra Branca","APA","USP","V",3
+"1073",475080,"Bairro da Freguesia","APA","USP","V",3
+"1074",475168,"Tinguazinho","APA","USP","V",3
+"1075",475222,"São Bento","APA","USP","V",3
+"1076",475271,"Serra da Tiririca","PARES","USP","II",6
+"1077",475290,"Niterói","PNM","USP","II",6
+"1078",475307,"Engenho Pequeno","APA","USP","V",3
+"1079",475422,"Palmares","APA","USP","V",3
+"1080",475453,"Médio Paraíba","REVIS","USP","III",5
+"1081",475540,"Morro da Torre","APA","USP","V",3
+"1082",475555,"Santa Fé","APA","USP","V",3
+"1083",475571,"Bemposta","APA","USP","V",3
+"1084",712465,"Serra das Lontras","PARNA","USP","II",6
+"1085",712723,"Baía de Todos os Santos","APA","USP","V",3
+"1086",712865,"Boqueirão da Onça","PARNA","USP","II",6
+"1087",712900,"Boqueirão da Onça","APA","USP","V",3
+"1088",712915,"Riacho Pontal","REVIS","USP","III",5
+"1089",712930,"Serra do Areal","PARES","USP","II",6
+"1090",712944,"Tatu-Bola","REVIS","USP","III",5
+"1091",712958,"Ararinha Azul","REVIS","USP","III",5
+"1092",712972,"Ararinha Azul","APA","USP","V",3
+"1093",743340,"Rio São Francisco","MONA","USP","III",5
+"1094",743355,"Serra da Canoa","ESEC","USP","Ia",7
+"1095",743369,"Morros do Caraunã e do Padre","REVIS","USP","III",5
+"1096",743425,"Lyra I","RPPN","USP","IV",4
+"1097",743442,"Lyra IV","RPPN","USP","IV",4
+"1098",743458,"Lyra III","RPPN","USP","IV",4
+"1099",743504,"Lyra II","RPPN","USP","IV",4
+"1100",743522,"Santa Rita","APA","USP","V",3
+"1101",743540,"Catolé e Fernão Velho","APA","USP","V",3
+"1102",743554,"Mata do Cedro","RPPN","USP","IV",4
+"1103",743628,"Sirinhaém","APA","USP","V",3
+"1104",743643,"Ipojuca-Merepe","ARIE","USP","IV",4
+"1105",743701,"Negreiros","FLONA","USP","VI",2
+"1106",743715,"Serras Caatingueiras","REVIS","USP","III",5
+"1107",760864,"Serra da Meruoca","APA","USP","V",3
+"1108",760979,"Botânico do Ceará","PARES","USP","II",6
+"1109",760994,"Estuário do Rio Ceará-Rio Maranguapinho","APA","USP","V",3
+"1110",761072,"Onças","APA","USP","V",3
+"1111",761101,"Pedra do Cachorro","MONA","USP","III",5
+"1112",761115,"Cariri","APA","USP","V",3
+"1113",761129,"Furna Feia","PARNA","USP","II",6
+"1114",761143,"Ponta do Tubarão","RDS","USP","VI",2
+"1115",761157,"Matas de Água Azul","REVIS","USP","III",5
+"1116",761171,"Bita e Utinga","ESEC","USP","Ia",7
+"1117",761185,"Matas do Sistema Gurjaú","REVIS","USP","III",5
+"1118",761200,"Aldeia Beberibe","APA","USP","V",3
+"1119",761215,"Dois Irmãos","PARES","USP","II",6
+"1120",761230,"Santa Cruz","APA","USP","V",3
+"1121",761245,"Acaú-Goiana","RESEX","USP","VI",2
+"1122",578013,"Uruana de Minas","APA","USP","V",3
+"1123",578028,"Sagarana","PARES","USP","II",6
+"1124",578238,"Ribeiro da Prata","PNM","USP","II",6
+"1125",763922,"Tambaba","APA","USP","V",3
+"1126",763936,"Roncador","APA","USP","V",3
+"1127",763967,"Piquiri-Una","APA","USP","V",3
+"1128",764014,"Mata Estrela","RPPN","USP","IV",4
