@@ -5,7 +5,7 @@
 # Date created:
 # 17/08/2023
 # Last edit:
-# 12/12/2023
+# 10/04/2024
 
 # Author: Eduardo Zanette
 
@@ -796,7 +796,7 @@ tm_shape(layer1[[1]]) +
 # Layer 2
 # layer2 <- layer2a_rast * layer2b_rast # Gera uns valores zuados
 # layer2 <- terra::merge(layer2a_rast, layer2b_rast, fun = sum) # merge does not work
-layer2 <- terra::mosaic(layer2a_rast, layer2b_rast, fun="max") 
+layer2 <- terra::mosaic(layer2a_rast, layer2b_rast, fun="max")# Maior valor, nao a multiplicação
 
 # png(file = here("Entregas", "A5_Sensibilidade", "Layer2", "Layer2_unscaled.png")
 #     , width = 750, height = 750

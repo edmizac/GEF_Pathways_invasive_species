@@ -8,7 +8,7 @@
 # Date created:
 # 17/08/2023
 # Última atualização:
-# 11/04/2024
+# 11/01/2024
 # Author: Eduardo Zanette
 
 ## Notes --------------------------- 
@@ -72,6 +72,8 @@ prio_impacto <- prio_impacto %>%
 prio_impacto$`Subcategoria CDB` %>% unique()
   
 
+### **** PROBLEMA 1: BAGAGENS E TURISMO E INTRODUÇÃO PARA FINS DE CONSERV. SÓ TEM UMA SPP ####
+
 
 ## Custo ----
 
@@ -85,6 +87,8 @@ prio_custo_auscont <- read_xlsx(here("Entregas", "A4_Custo", "Database_consolida
     Situação = "Ausente/Contida"
   )
 
+### **** PROBLEMA 2: USAMOS SÓ O CUSTO MÉDIO OU O CUSTO MÉDIO * N° SPP AUSENTES?  #####
+# R: acho que só o custo médio mesmo
 
 ### Contidas:
 prio_custo_pres <- read_xlsx(here("Entregas", "A4_Custo", "Database_consolidada_Invacost_summary-vias_Presentes_se_sem-Apis-e-Columba.xlsx")) %>% 
@@ -114,6 +118,7 @@ prio_sensi <- read_xlsx(here("Entregas", "A5_Sensibilidade", "Sensibilidade_ocor
   )
 prio_sensi$`Subcategoria CDB` %>% unique()
 
+### PROBLEMA 3: TEM UMA VIA NA AQUI
 
 
 
@@ -142,6 +147,40 @@ prio_risco <- dplyr::left_join(prio_qtdd, prio_impacto) %>%
   dplyr::left_join(prio_temp_pres)
 
 
+
+## Adequar valores de NA (valem menos se tiver poucas espécies):
+
+# Gerar distribuião Poisson:
+vec <- ppois(q = 1:max(prio_risco$riqueza), lambda = 4)
+
+vecdf <- vec %>% as_data_frame() %>% 
+  mutate(riqueza = 1:length(vec)) %>% 
+  rename(value_na = value)
+
+# Plot point
+vecdf %>% 
+  ggplot(aes(y = value_na, x = riqueza)) +
+  geom_point()
+
+
+# Substituir NA pelos valores da distribuição:
+prio_risco_na <- left_join(prio_risco, vecdf)
+
+prio_risco_na <- prio_risco_na %>% 
+  mutate_at(
+    vars(matches("_scaled")),  
+    ~ case_when(
+      # is.na(.) ~ prio_risco_na[row_number(.), "value_na"] %>% as.numeric(),
+      is.na(.) ~ value_na,
+      TRUE ~ .
+    )
+  )# %>% 
+  # dplyr::select(-value_na)
+
+prio_risco <- prio_risco_na
+
+
+
 ## Ranquear -----
 prio_risco <- prio_risco %>% 
   rowwise() %>%
@@ -161,9 +200,27 @@ prio_risco <- prio_risco %>%
   mutate(Posição = 1:n())
 
 
-# # Save:
+# # # Save:
 # prio_risco %>%
-#   writexl::write_xlsx(path = here("Entregas", "1_Protocolo_Avaliacao-de-Risco", "Risco_vias-e-vetores.xlsx"))
+#   writexl::write_xlsx(path = here("Entregas", "1_Protocolo_Avaliacao-de-Risco"
+#                                   , "Risco_vias-e-vetores_NA-corrected.xlsx"))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -232,6 +289,7 @@ prio_impacto <- prio_impacto %>%
 prio_impacto$`Subcategoria CDB` %>% unique()
 
 
+### **** PROBLEMA 1: BAGAGENS E TURISMO E INTRODUÇÃO PARA FINS DE CONSERV. SÓ TEM UMA SPP ####
 
 
 ## Custo ----
@@ -245,6 +303,9 @@ prio_custo_auscont <- read_xlsx(here("Entregas", "A4_Custo", "Database_consolida
   mutate(
     Situação = "Ausente/Contida"
   )
+
+### **** PROBLEMA 2: USAMOS SÓ O CUSTO MÉDIO OU O CUSTO MÉDIO * N° SPP AUSENTES?  #####
+# R: acho que só o custo médio mesmo
 
 ### Contidas:
 prio_custo_pres <- read_xlsx(here("Entregas", "A4_Custo", "Database_consolidada_Invacost_summary-vias_Presentes_se_sem-Apis-e-Columba-ambiente.xlsx")) %>% 
@@ -273,6 +334,8 @@ prio_sensi <- read_xlsx(here("Entregas", "A5_Sensibilidade", "Sensibilidade_ocor
     )
   )
 prio_sensi$`Subcategoria CDB` %>% unique()
+
+### PROBLEMA 3: TEM UMA VIA NA AQUI
 
 
 
@@ -304,6 +367,56 @@ prio_risco_ambiente <- dplyr::left_join(prio_qtdd, prio_impacto) %>%
   dplyr::left_join(prio_temp_pres)
 
 
+## Adequar valores de NA (valem menos se tiver poucas espécies):
+
+# Gerar distribuião Poisson:
+vec <- ppois(q = 1:max(prio_risco_ambiente$riqueza), lambda = 4)
+
+vecdf <- vec %>% as_data_frame() %>% 
+  mutate(riqueza = 1:length(vec)) %>% 
+  rename(value_na = value)
+
+theme_set(theme_bw(base_size = 18))
+
+# Plot point
+vecdf %>% 
+  ggplot(aes(y = value_na, x = riqueza)) +
+  geom_point() +
+  xlab("Riqueza da via") +
+  ylab("Valor do 'NA'") +
+  labs(subtitle = "Valor utilizado quando não há informações ('NA')")
+
+# # Save plot:
+# ggsave(filename = here("Entregas", "1_Protocolo_Avaliacao-de-Risco",
+#                        "Valores-NA-priorizacao.png"),
+#        dpi = 300,  width = 7, height = 5, units = "in")
+
+
+# Substituir NA pelos valores da distribuição:
+prio_risco_na <- left_join(prio_risco_ambiente, vecdf)
+
+prio_risco_na <- prio_risco_na %>% 
+  mutate_at(
+    vars(matches("_scaled")),  
+    ~ case_when(
+      # is.na(.) ~ prio_risco_na[row_number(.), "value_na"] %>% as.numeric(),
+      is.na(.) & Situação == "Presente" ~ value_na,
+      TRUE ~ .
+    )
+  ) %>%
+  # Agora para ausentes e contidas que não foram contempladas no mutate acima:
+  mutate_at(
+    vars(matches("to_scaled")), # impacto e custo
+    ~ case_when(
+      # is.na(.) ~ prio_risco_na[row_number(.), "value_na"] %>% as.numeric(),
+      is.na(.) & Situação == "Ausente/Contida" ~ value_na,
+      TRUE ~ .
+    )
+  ) #%>%
+  # dplyr::select(-value_na)
+
+prio_risco_ambiente <- prio_risco_na
+
 ## Ranquear -----
 prio_risco_ambiente <- prio_risco_ambiente %>% 
   rowwise() %>%
@@ -325,9 +438,66 @@ prio_risco_ambiente <- prio_risco_ambiente %>%
 
 
 # # # Save:
-# prio_risco_ambiente %>%
+prio_risco_ambiente %>%
 #   writexl::write_xlsx(path = here("Entregas", "1_Protocolo_Avaliacao-de-Risco", "Risco_vias-e-vetores_situacao-e-ambiente.xlsx"))
+  writexl::write_xlsx(path = here("Entregas", "1_Protocolo_Avaliacao-de-Risco", 
+                                  "Risco_vias-e-vetores_situacao-e-ambiente_NA-corrected.xlsx"))
 
 
 
+
+
+
+
+
+# Lista de spps das vias prioritárias ------
+
+## Vias -----
+vv <- read_xlsx(here("Entregas", "Arquivos", "Dados", "00_Vias-vetores-corrigido.xlsx")) %>% 
+  # mudar nome de categorias com erros de digitação
+  mutate(
+    `Subcategoria CDB` = case_when(
+      `Subcategoria CDB` == "Pesquisa e e criação ex-situ" ~ "Pesquisa e criação ex-situ",
+      `Subcategoria CDB` == "Presença em navio e embarbação" ~ "Presença em navio e embarcação",
+      TRUE ~  as.character(`Subcategoria CDB`)
+    )
+  ) %>% 
+  mutate(
+    Situação = case_when(
+      Situação != "Presente" ~ "Ausente/Contida",
+      TRUE ~ Situação
+    )
+  )
+vv$`Subcategoria CDB` %>% unique()
+
+# Filtrar vias prioritárias:
+vv_priori <- vv %>% 
+  dplyr::filter(
+    
+    Ambiente == "Terrestre" & Situação == "Ausente/Contida" & `Subcategoria CDB` == "Plantas cultivadas" |
+    Ambiente == "Terrestre" & Situação == "Presente" & `Subcategoria CDB` == "Aquário, terrário e pet (incluindo comida viva para essas espécies)" |
+    Ambiente == "Terrestre" & Situação == "Presente" & `Subcategoria CDB` == "Presença em navio e embarcação" |
+    
+    Ambiente == "Água doce" & Situação == "Ausente/Contida" & `Subcategoria CDB` == "Aquário, terrário e pet (incluindo comida viva para essas espécies)" |
+    Ambiente == "Marinho" & Situação == "Presente" & `Subcategoria CDB` == "Água de lastro" |
+    Ambiente == "Marinho" & Situação == "Presente" & `Subcategoria CDB` == "Aquário, terrário e pet (incluindo comida viva para essas espécies)" |
+    
+    Ambiente == "Marinho" & Situação == "Presente" & `Subcategoria CDB` == "Jardim botânico, zoológico, aquário (não domésticos)" |
+    Ambiente == "Água doce" & Situação == "Ausente/Contida" & `Subcategoria CDB` == "Canais, bacias e mares interconectados" |
+    Ambiente == "Água doce" & Situação == "Ausente/Contida" & `Subcategoria CDB` == "Jardim botânico, zoológico, aquário (não domésticos)"
+    
+    ) %>% 
+  group_by(Ambiente, Situação, `Subcategoria CDB`) %>% 
+  mutate(
+    Riqueza = n(),
+    Via_priorizada = cur_group_id()
+  )
+
+vv_priori$`Nome científico` %>% unique() # 133 spps
+
+# # # Save:
+vv_priori %>%
+  #   writexl::write_xlsx(path = here("Entregas", "1_Protocolo_Avaliacao-de-Risco", "Risco_vias-e-vetores_situacao-e-ambiente.xlsx"))
+  writexl::write_xlsx(path = here("Entregas", "1_Protocolo_Avaliacao-de-Risco", 
+                                  "Risco_vias-e-vetores_lista-spps.xlsx"))
 

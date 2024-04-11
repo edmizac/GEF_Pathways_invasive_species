@@ -424,9 +424,11 @@ inva_evdate_pres_summary <- inva_evdate_pres %>%
 
 ## Plots -----
 
-theme_set(theme_bw(base_size = 20))
+theme_set(theme_bw(base_size = 18))
 theme_update(
-  axis.text.x = element_text(size = 12)
+  axis.text.x = element_text(size = 14),
+  axis.text.y = element_text(size = 14),
+  
 )
 
 options(scipen=999)
@@ -452,10 +454,10 @@ inva_evdate_pres_summary %>%
   scale_fill_manual(values = palCDB_cat) +
   coord_flip() +
   # geom_text(aes(label=n), stat = "count", colour="red", size=4) +
-  theme(
-    legend.position = "bottom",
-    axis.text.y = element_text(size = 14),
-    axis.text.x = element_text(angle = 30, hjust = 1)
+  theme_update(
+    legend.position = "bottom"#,
+    # axis.text.y = element_text(size = 14),
+    # axis.text.x = element_text(angle = 30, hjust = 1)
   ) +
   xlab("Vias e vetores") +
   ylab("Custo acumulado (bilhões BRL)") +
@@ -519,23 +521,26 @@ inva_evdate_pres_summary_se %>%
   scale_fill_manual(values = palCDB_cat) +
   coord_flip() +
   # geom_text(aes(label=n), stat = "count", colour="red", size=4) +
-  theme(
+  theme_update(
     legend.position = "bottom",
-    axis.text.y = element_text(size = 14),
-    axis.text.x = element_text(angle = 30, hjust = 1)
+    # axis.text.y = element_text(size = 14)#,
+    # axis.text.x = element_text(angle = 30, hjust = 1)
   ) +
   ggtitle("Vias e vetores com maior custo acumulado no Brasil") +
   xlab("Vias e vetores") +
   ylab("Custo acumulado (bilhões BRL)") +
-  geom_label(#inherit.aes = TRUE
+  ggnewscale::new_scale_fill() +
+  geom_label(#inherit.aes = FALSE,
     # , data = n_spp
     # , aes(x = `Subcategoria CDB`
     #     , y = custo_acumulado_BRL_bi
     #     , label = n_spp)
-    aes(label = n_spp)
+    aes(label = n_spp)#, fill = "white")
     , nudge_y = 5
     , label.padding = unit(0.05, "lines")
     , show.legend = FALSE
+    , label.size = NA # tirar borda
+    , size = 7
   )
 # # # Save:
 # ggsave(filename = here("Entregas", "A4_Custo", "InvaCost_medio_BRL_vias-Presentes-n.png"),
@@ -566,19 +571,18 @@ inva_evdate_pres_main %>%
              , x = custo_acumulado_BRL_bi
              , fill = `Subcategoria CDB`)) +
   geom_col() +
-  theme_bw() +
-  theme(
-    legend.position = "bottom",
-    
+  # # theme_bw() +
+  theme_update(
+    legend.position = "bottom"
   ) +
   # scale_fill_manual(values = c()) +
   ggtitle("EEIs das 4 vias e vetores com maior custo acumulado no Brasil") +
-  ylab("Vias e vetores") +
+  ylab("") +
   xlab("Custo acumulado (bilhões BRL)") +
   guides(fill=guide_legend(nrow=2, byrow=TRUE))
-# # Save:
+# # # Save:
 # ggsave(filename = here("Entregas", "A4_Custo", "InvaCost_medio_BRL_vias-spps-importantes-Presentes.png"),
-#        dpi = 300,  width = 8, height = 5, units = "in")
+#        dpi = 300,  width = 13, height = 8, units = "in")
 
 spp_out <- c("Apis mellifera", "Columba livia") #, "Aedes aegypti")
 
@@ -587,7 +591,8 @@ spp_out <- c("Apis mellifera", "Columba livia") #, "Aedes aegypti")
 ### Sem espécies com maior dano ----
 inva_evdate_pres_summary_se <- inva_evdate_pres %>%
   dplyr::filter(!`Nome científico` %in% spp_out) %>% 
-  group_by(Situação, Ambiente, `Categoria CDB`, `Subcategoria CDB`) %>% 
+  group_by(Situação, #Ambiente, 
+           `Categoria CDB`, `Subcategoria CDB`) %>% 
   summarise(
     custo_acumulado_BRL_bi_sum = sum(custo_acumulado_BRL_bi, na.rm=TRUE),
     custo_acumulado_BRL_bi_mean = mean(custo_acumulado_BRL_bi, na.rm=TRUE),
@@ -628,29 +633,32 @@ inva_evdate_pres_summary_se %>%
   scale_fill_manual(values = palCDB_cat) +
   coord_flip() +
   # geom_text(aes(label=n), stat = "count", colour="red", size=4) +
-  theme(
-    legend.position = "bottom",
-    axis.text.y = element_text(size = 14),
-    axis.text.x = element_text(angle = 30, hjust = 1)
-  ) +
+  # theme_update(
+  #   legend.position = "bottom"#,
+  #   # axis.text.y = element_text(size = 14),
+  #   # axis.text.x = element_text(angle = 30, hjust = 1)
+  # ) +
   ggtitle("Vias e vetores com maior custo acumulado no Brasil",
           expression(paste("Desconsiderando ", italic("Apis mellifera, Columba livia")))) +#, " e ", italic("Aedes aegypti")))) +
   xlab("Vias e vetores") +
   ylab("Custo acumulado (bilhões BRL)") +
-  geom_label(#inherit.aes = TRUE
+  ggnewscale::new_scale_fill() +
+  geom_label(#inherit.aes = FALSE,
     # , data = n_spp
     # , aes(x = `Subcategoria CDB`
     #     , y = custo_acumulado_BRL_bi
     #     , label = n_spp)
-    aes(label = n_spp)
-    , nudge_y = 1
+    aes(label = n_spp)#, fill = "white")
+    , nudge_y = 3
     , label.padding = unit(0.05, "lines")
     , show.legend = FALSE
+    , label.size = NA # tirar borda
+    , size = 7
   )
 # # # Save:
 # ggsave(filename = here("Entregas", "A4_Custo"
 #                        , "InvaCost_medio_BRL_vias-n-errorbar-sd_sem-spps-importantes.png"),
-#        dpi = 300,  width = 13, height = 10, units = "in")
+#        dpi = 300,  width = 14, height = 10, units = "in")
 
 
 ### Checar spps responsáveis
@@ -671,20 +679,19 @@ inva_evdate_pres_main %>%
              , x = custo_acumulado_BRL_bi
              , fill = `Subcategoria CDB`)) +
   geom_col() +
-  theme_bw() +
-  theme(
+  # theme_bw() +
+  theme_update(
     legend.position = "bottom",
-    
   ) +
   # scale_fill_manual(values = c()) +
   ggtitle("EEIs das 2 vias e vetores com maior custo acumulado no Brasil",
           expression(paste("Desconsiderando ", italic("Apis mellifera, Columba livia")))) +#, " e ", italic("Aedes aegypti")))) +
-  ylab("Vias e vetores") +
+  ylab("") +
   xlab("Custo acumulado (bilhões BRL)") +
   guides(fill=guide_legend(nrow=1, byrow=TRUE))
 # # # Save:
 # ggsave(filename = here("Entregas", "A4_Custo", "InvaCost_medio_BRL_vias-spps-importantes-spps-Presentes.png"),
-#        dpi = 300,  width = 8, height = 5, units = "in")
+#        dpi = 300,  width = 13, height = 8, units = "in")
 
 
 
@@ -754,10 +761,10 @@ inva_aus_summary <- inva_aus %>%
 
 ## Plots -----
 
-theme_set(theme_bw(base_size = 20))
-theme_update(
-  axis.text.x = element_text(size = 12)
-)
+# theme_set(theme_bw(base_size = 20))
+# theme_update(
+#   axis.text.x = element_text(size = 12)
+# )
 
 options(scipen=999)
 
@@ -781,10 +788,10 @@ inva_aus_summary %>%
   scale_fill_manual(values = palCDB_cat) +
   coord_flip() +
   # geom_text(aes(label=n), stat = "count", colour="red", size=4) +
-  theme(
+  theme_update(
     legend.position = "bottom",
-    axis.text.y = element_text(size = 14),
-    axis.text.x = element_text(angle = 30, hjust = 1)
+  #   axis.text.y = element_text(size = 14),
+  #   axis.text.x = element_text(angle = 30, hjust = 1)
   ) +
   xlab("Vias e vetores") +
   ylab("Custo acumulado (milhões BRL)") +
@@ -836,23 +843,26 @@ inva_aus_summary_se %>%
   scale_fill_manual(values = palCDB_cat) +
   coord_flip() +
   # geom_text(aes(label=n), stat = "count", colour="red", size=4) +
-  theme(
+  theme_update(
     legend.position = "bottom",
-    axis.text.y = element_text(size = 14),
-    axis.text.x = element_text(angle = 30, hjust = 1)
+  #   axis.text.y = element_text(size = 14),
+  #   axis.text.x = element_text(angle = 30, hjust = 1)
   ) +
   ggtitle("Custo acumulado de vias e vetores de EEIs Ausentes/Contidas") +
   xlab("Vias e vetores") +
   ylab("Custo acumulado (milhões BRL)") +
-  geom_label(#inherit.aes = TRUE
+  ggnewscale::new_scale_fill() +
+  geom_label(#inherit.aes = FALSE,
     # , data = n_spp
     # , aes(x = `Subcategoria CDB`
-    #     , y = custo_medio_BRL_mi
+    #     , y = custo_acumulado_BRL_bi
     #     , label = n_spp)
-    aes(label = n_spp)
-    , nudge_y = 20
+    aes(label = n_spp)#, fill = "white")
+    , nudge_y = 30
     , label.padding = unit(0.05, "lines")
     , show.legend = FALSE
+    , label.size = NA # tirar borda
+    , size = 7
   )
 # # # Save:
 # ggsave(filename = here("Entregas", "A4_Custo", "InvaCost_medio_BRL_vias_Aus-Cont_n.png"),
@@ -878,20 +888,19 @@ inva_evdate_pres_main %>%
              , x = custo_medio_BRL_mi
              , fill = `Subcategoria CDB`)) +
   geom_col() +
-  theme_bw() +
-  theme(
+  # theme_bw() +
+  theme_update(
     legend.position = "bottom",
-    
   ) +
   # scale_fill_manual(values = c()) +
   ggtitle("EEIs Ausentes/Contidas das 5 vias e vetores com maior custo acumulado") +
   
-  ylab("Vias e vetores") +
+  ylab("") +
   xlab("Custo acumulado (milhões BRL)") +
   guides(fill=guide_legend(nrow=3, byrow=TRUE))
 # # Save:
-# ggsave(filename = here("Entregas", "A4_Custo", "InvaCost_medio_BRL_vias-spps-importantes-Aus-Cont.png"),
-#        dpi = 300,  width = 9, height = 5, units = "in")
+ggsave(filename = here("Entregas", "A4_Custo", "InvaCost_medio_BRL_vias-spps-importantes-Aus-Cont.png"),
+       dpi = 300,  width = 14.5, height = 8, units = "in")
 
 
 inva_aus %>% dplyr::filter(`Nome científico` == "Anoplophora glabripennis")
@@ -924,6 +933,7 @@ inva_aus_summary_se <- inva_aus %>%
 ### + Ambiente + Situação
 ### Sem espécies com maior dano ----
 inva_aus_summary_se_amb_sit <- inva_aus %>%
+  ungroup() %>% 
   dplyr::filter(!`Nome científico` %in% spp_out) %>% 
   group_by(`Categoria CDB`, `Subcategoria CDB`) %>% 
   summarise(
@@ -947,7 +957,8 @@ inva_aus_summary_se_amb_sit <- inva_aus %>%
 
 
 
-inva_aus_summary_se %>% 
+# inva_aus_summary_se %>% 
+inva_aus_summary_se_amb_sit %>% 
   ungroup() %>% 
   mutate(
     `Subcategoria CDB` = fct_reorder(`Subcategoria CDB`, custo_medio_BRL_mi_sum, .fun = sum)
@@ -964,26 +975,29 @@ inva_aus_summary_se %>%
   scale_fill_manual(values = palCDB_cat) +
   coord_flip() +
   # geom_text(aes(label=n), stat = "count", colour="red", size=4) +
-  theme(
-    legend.position = "bottom",
-    axis.text.y = element_text(size = 14),
-    axis.text.x = element_text(angle = 30, hjust = 1)
-  ) +
+  # theme(
+  #   legend.position = "bottom",
+  #   axis.text.y = element_text(size = 14),
+  #   axis.text.x = element_text(angle = 30, hjust = 1)
+  # ) +
   ggtitle("Custo acumulado de vias e vetores de EEIs Ausentes/Contidas",
           expression(paste("Desconsiderando ", italic("Anoplophora glabripennis")))) +
   xlab("Vias e vetores") +
   ylab("Custo acumulado (milhões BRL)") +
-  geom_label(#inherit.aes = TRUE
+  ggnewscale::new_scale_fill() +
+  geom_label(#inherit.aes = FALSE,
     # , data = n_spp
     # , aes(x = `Subcategoria CDB`
-    #     , y = custo_medio_BRL_mi
+    #     , y = custo_acumulado_BRL_bi
     #     , label = n_spp)
-    aes(label = n_spp)
-    , nudge_y = 5
+    aes(label = n_spp)#, fill = "white")
+    , nudge_y = 3
     , label.padding = unit(0.05, "lines")
     , show.legend = FALSE
+    , label.size = NA # tirar borda
+    , size = 7
   )
-# # # Save:
+# # # # Save:
 # ggsave(filename = here("Entregas", "A4_Custo"
 #                        , "InvaCost_medio_BRL_vias-n-errorbar-sd_sem-spps-importantes-Aus-Cont.png"),
 #        dpi = 300,  width = 14.5, height = 10, units = "in")
@@ -1008,20 +1022,19 @@ inva_aus_main %>%
              , fill = `Subcategoria CDB`)) +
   geom_col(#position = "dodge"
     ) +
-  theme_bw() +
-  theme(
+  # theme_bw() +
+  theme_update(
     legend.position = "bottom",
-    
   ) +
   # scale_fill_manual(values = c()) +
   ggtitle("EEIs Ausentes/Contidas das 5 vias e vetores com maior custo acumulado",
           expression(paste("Desconsiderando ", italic("Anoplophora glabripennis")))) +
-  ylab("Vias e vetores") +
+  ylab("") +
   xlab("Custo acumulado (milhões BRL)") +
-  guides(fill=guide_legend(nrow=2, byrow=TRUE))
+  guides(fill=guide_legend(nrow=3, byrow=TRUE))
 # # # # Save:
-# ggsave(filename = here("Entregas", "A4_Custo", "InvaCost_medio_BRL_vias-spps-importantes-spps_Aus-Cont.png"),
-#        dpi = 300,  width = 9, height = 7, units = "in")
+ggsave(filename = here("Entregas", "A4_Custo", "InvaCost_medio_BRL_vias-spps-importantes-spps_Aus-Cont.png"),
+       dpi = 300,  width = 13, height = 11, units = "in")
 
 
 
@@ -1144,5 +1157,49 @@ vv_inva_n %>%
     strip.text = element_text(size=12)
   )
 # # # Save:
-ggsave(filename = here("Entregas", "A4_Custo", "InvaCost_n-estimativas.png"),
-       dpi = 300,  width = 12, height = 14, units = "in")
+# ggsave(filename = here("Entregas", "A4_Custo", "InvaCost_n-estimativas.png"),
+#        dpi = 300,  width = 12, height = 18, units = "in")
+
+
+# Separado em 2 plots:
+vias_split <- c("Corredor", "Escape", "Sem ajuda humana")
+
+vv_inva_n %>% 
+  dplyr::filter(`Categoria CDB` %in% vias_split) %>% 
+  ggplot(aes(y = fct_reorder(`Nome científico`, n_estimativas_invacost)
+             , x = n_estimativas_invacost, fill = `Categoria CDB`)) +
+  geom_col(position = "dodge") +
+  scale_fill_manual(values = palCDB_cat) +
+  facet_wrap(~`Categoria CDB`, scales = "free_y", nrow = 1) +
+  theme(
+    legend.position = "bottom",
+    axis.text.y = element_text(size = 12)
+  ) +
+  xlab("Número de estimativas no InvaCost") +
+  ylab("Nome científico") +
+  theme(
+    strip.text = element_text(size=12)
+  )
+# # # Save:
+# ggsave(filename = here("Entregas", "A4_Custo", "InvaCost_n-estimativas-1.png"),
+#        dpi = 300,  width = 14, height = 18, units = "in")
+
+vv_inva_n %>% 
+  dplyr::filter(!`Categoria CDB` %in% vias_split) %>% 
+  ggplot(aes(y = fct_reorder(`Nome científico`, n_estimativas_invacost)
+             , x = n_estimativas_invacost, fill = `Categoria CDB`)) +
+  geom_col(position = "dodge") +
+  scale_fill_manual(values = palCDB_cat) +
+  facet_wrap(~`Categoria CDB`, scales = "free_y", nrow = 1) +
+  theme(
+    legend.position = "bottom",
+    axis.text.y = element_text(size = 12)
+  ) +
+  xlab("Número de estimativas no InvaCost") +
+  ylab("Nome científico") +
+  theme(
+    strip.text = element_text(size=12)
+  )
+# # # Save:
+ggsave(filename = here("Entregas", "A4_Custo", "InvaCost_n-estimativas-2.png"),
+       dpi = 300,  width = 14, height = 18, units = "in")
